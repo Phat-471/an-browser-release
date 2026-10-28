@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
-  "changelog": "Bản phát hành chính thức AN Browser v0.1.0:\n- Chặn quảng cáo đa tầng & xóa sạch banner cá cược cắm cứng\n- Trình phát video Cyber Cinema: vuốt độ sáng, âm lượng, tua 2X, khóa màn hình\n- Trình quản lý tải xuống hiện đại kèm thanh dung lượng bộ nhớ máy\n- Hỗ trợ giao diện Sáng / Tối và thanh địa chỉ ẩn hiện thông minh",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.1.0/app-debug.apk"
+  "versionCode": 2,
+  "versionName": "0.2.0",
+  "changelog": "Bản cập nhật lớn AN Browser v0.2.0:\n- Triệt phá 100% banner quảng cáo cờ bạc cứng (1XIBET, MAN88, VU88, K88, SIN88...) từ mạng vietadx; dọn sạch khung đen/viền xám thừa\n- Khắc phục triệt để lỗi vỡ hình ảnh / không load được logo & thumbnail phim\n- Phát âm thanh trong nền (Background Playback) khi tắt màn hình hoặc chuyển app\n- Tiết kiệm RAM đa tab (Memory Saver / Tab Suspending) tối ưu pin và hiệu năng\n- Bộ giải mã Native DNS-over-HTTPS (DoH) Cloudflare 1.1.1.1, AdGuard, Google vượt chặn nhà mạng\n- Chế độ Ẩn danh toàn cục đồng bộ 1 chạm bảo vệ riêng tư",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.2.0/app-debug.apk"
 }
