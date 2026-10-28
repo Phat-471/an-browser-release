@@ -1,0 +1,6 @@
+{
+  "versionCode": 1,
+  "versionName": "0.1.0",
+  "changelog": "Bản phát hành chính thức AN Browser v0.1.0:\n- Chặn quảng cáo đa tầng & xóa sạch banner cá cược cắm cứng\n- Trình phát video Cyber Cinema: vuốt độ sáng, âm lượng, tua 2X, khóa màn hình\n- Trình quản lý tải xuống hiện đại kèm thanh dung lượng bộ nhớ máy\n- Hỗ trợ giao diện Sáng / Tối và thanh địa chỉ ẩn hiện thông minh",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.1.0/app-debug.apk"
+}
