@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "0.2.2",
-  "changelog": "Bản cập nhật hoàn thiện Chế độ Ẩn Danh Toàn Cục & Tối ưu Video AN Browser v0.2.2:\n- Sửa lỗi không bật được chế độ ẩn danh: Kích hoạt đồng bộ 1 chạm từ Menu (3 chấm), Thẻ duyệt (Tabs), Trang chủ (Home) và Cài đặt\n- Khi bật ẩn danh, toàn bộ các thẻ chuyển sang không gian bí mật (Stealth Mode), hiển thị viền tím Cyber Purple đặc trưng, không lưu lịch sử, cookie hay biểu mẫu\n- Tự hủy toàn bộ dữ liệu phiên khi thoát ẩn danh về chế độ thường\n- Giữ nguyên toàn bộ tối ưu xem video tràn viền (Edge-to-Edge Cutout) và tự động xoay ngang",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.2.2/app-debug.apk"
+  "versionCode": 5,
+  "versionName": "0.3.0",
+  "changelog": "Bản nâng cấp AN Browser v0.3.0 - Tối ưu Toàn diện Giao diện, Code & Trải nghiệm Xem Video Online:\n- Tối ưu xem video online: Xuất hiện thanh điều khiển nổi Cyber Floating Mini Bar (🎬 Rạp Phim & ⬇ Tải) ngay trên video web; 1 chạm chuyển sang ExoPlayer toàn màn hình tràn viền 100% không viền đen\n- Tự động bỏ qua quảng cáo video (Auto Skip Video Ads): Tự động click nút Bỏ qua quảng cáo và tăng tốc 16x video ad đệm\n- Tự động vào Chế độ Thu nhỏ Hình trong Hình (Picture-in-Picture - PiP) khi nhấn phím Home lúc đang xem video\n- Chặn sạch 100% banner quảng cáo cờ bạc & tracking cứng (Xibet, Man88, Vu88, K88, Sin88, 789Club...) mà không để lại khoảng trống màu đen\n- Thiết kế lại Menu 3 chấm dạng Lưới (Grid) 4 cột chuẩn công thái học: Dễ chạm ngón cái, phân nhóm rõ ràng Thao tác duyệt web & Tiện ích Cyber\n- Tối ưu cấu trúc mã nguồn (Modular Architecture) & Giải phóng bộ nhớ (onTrimMemory) giúp app chạy mượt, tiết kiệm RAM",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.3.0/app-debug.apk"
 }
