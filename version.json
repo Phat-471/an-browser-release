@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "0.2.0",
-  "changelog": "Bản cập nhật lớn AN Browser v0.2.0:\n- Triệt phá 100% banner quảng cáo cờ bạc cứng (1XIBET, MAN88, VU88, K88, SIN88...) từ mạng vietadx; dọn sạch khung đen/viền xám thừa\n- Khắc phục triệt để lỗi vỡ hình ảnh / không load được logo & thumbnail phim\n- Phát âm thanh trong nền (Background Playback) khi tắt màn hình hoặc chuyển app\n- Tiết kiệm RAM đa tab (Memory Saver / Tab Suspending) tối ưu pin và hiệu năng\n- Bộ giải mã Native DNS-over-HTTPS (DoH) Cloudflare 1.1.1.1, AdGuard, Google vượt chặn nhà mạng\n- Chế độ Ẩn danh toàn cục đồng bộ 1 chạm bảo vệ riêng tư",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.2.0/app-debug.apk"
+  "versionCode": 4,
+  "versionName": "0.2.2",
+  "changelog": "Bản cập nhật hoàn thiện Chế độ Ẩn Danh Toàn Cục & Tối ưu Video AN Browser v0.2.2:\n- Sửa lỗi không bật được chế độ ẩn danh: Kích hoạt đồng bộ 1 chạm từ Menu (3 chấm), Thẻ duyệt (Tabs), Trang chủ (Home) và Cài đặt\n- Khi bật ẩn danh, toàn bộ các thẻ chuyển sang không gian bí mật (Stealth Mode), hiển thị viền tím Cyber Purple đặc trưng, không lưu lịch sử, cookie hay biểu mẫu\n- Tự hủy toàn bộ dữ liệu phiên khi thoát ẩn danh về chế độ thường\n- Giữ nguyên toàn bộ tối ưu xem video tràn viền (Edge-to-Edge Cutout) và tự động xoay ngang",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.2.2/app-debug.apk"
 }
