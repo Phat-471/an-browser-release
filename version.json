@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.3.0",
-  "changelog": "Bản nâng cấp AN Browser v0.3.0 - Tối ưu Toàn diện Giao diện, Code & Trải nghiệm Xem Video Online:\n- Tối ưu xem video online: Xuất hiện thanh điều khiển nổi Cyber Floating Mini Bar (🎬 Rạp Phim & ⬇ Tải) ngay trên video web; 1 chạm chuyển sang ExoPlayer toàn màn hình tràn viền 100% không viền đen\n- Tự động bỏ qua quảng cáo video (Auto Skip Video Ads): Tự động click nút Bỏ qua quảng cáo và tăng tốc 16x video ad đệm\n- Tự động vào Chế độ Thu nhỏ Hình trong Hình (Picture-in-Picture - PiP) khi nhấn phím Home lúc đang xem video\n- Chặn sạch 100% banner quảng cáo cờ bạc & tracking cứng (Xibet, Man88, Vu88, K88, Sin88, 789Club...) mà không để lại khoảng trống màu đen\n- Thiết kế lại Menu 3 chấm dạng Lưới (Grid) 4 cột chuẩn công thái học: Dễ chạm ngón cái, phân nhóm rõ ràng Thao tác duyệt web & Tiện ích Cyber\n- Tối ưu cấu trúc mã nguồn (Modular Architecture) & Giải phóng bộ nhớ (onTrimMemory) giúp app chạy mượt, tiết kiệm RAM",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.3.0/app-debug.apk"
+  "versionCode": 6,
+  "versionName": "0.3.1",
+  "changelog": "Bản cập nhật nóng AN Browser v0.3.1 - Khắc phục triệt để lỗi không load được web và chập chờn video:\n- Sửa lỗi không tải được trang web hoặc trang trắng không báo lỗi: Loại bỏ việc chặn nhầm luồng điều hướng Main Frame; Thêm màn hình thông báo lỗi kết nối rõ ràng và nút Thử lại/Cài DNS\n- Sửa lỗi video lúc load được lúc không: Loại bỏ script tua ép xung gây chết video trên web; Sửa lỗi chặn nhầm phân đoạn stream video (HLS/TS/MPD)\n- Tối ưu Rạp Phim Cyber Cinema: Bổ sung Cookie và Referer xác thực, tự động giải mã luồng stream khi web dùng MSE blob:\n- Giữ nguyên toàn bộ giao diện Menu Lưới (Grid) 4 cột và Chế độ Ẩn danh Stealth",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.3.1/app-debug.apk"
 }
