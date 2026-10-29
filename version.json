@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "0.5.4",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.5.4/app-debug.apk",
-  "changelog": "⚡ SIÊU BẢN CẬP NHẬT v0.5.4: PHỤ ĐỀ ONLINE & AI LIVE SUBTITLE\n• GIAI ĐOẠN 2 - TỰ ĐỘNG TÌM SUB ONLINE: Trích xuất tên phim sạch từ web, tìm kiếm kho OpenSubtitles / Cinemeta đa nguồn, tải và nạp sub Vietsub trong 1 chạm.\n• GIAI ĐOẠN 3 - AI LIVE SUBTITLE: Đột phá xem video RAW không có bất kỳ sub nào! Tự động nhận diện giọng nói diễn viên (Tiếng Nhật, Tiếng Anh, Tiếng Trung, Tiếng Hàn) và dịch trực tiếp sang Tiếng Việt theo thời gian thực.\n• AI DỊCH NGUYÊN BẢN PHỤ ĐỀ: 1 Click dịch toàn bộ file phụ đề tiếng Anh/Nhật sang Tiếng Việt trong 2 giây bằng Google Neural Translation, tự động lưu file .srt vào máy.\n• LƯU PHỤ ĐỀ AI: Cho phép xuất toàn bộ các câu thoại vừa được AI dịch trực tiếp thành tệp .srt chuẩn để lưu trữ và xem ngoại tuyến.",
+  "versionCode": 18,
+  "versionName": "0.5.5",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.5.5/app-debug.apk",
+  "changelog": "🔥 FIX TOÀN DIỆN XOAY NGANG & AI LIVE SUBTITLE v0.5.5:\n• KHẮC PHỤC LỖI XOAY NGANG: Bổ sung thanh cuộn toàn màn hình (Vertical Scroll), giao diện Cyber Cinema nền tối cao cấp không còn bị che khuất hay cắt đứt chữ khi xoay ngang điện thoại.\n• ĐƯA AI LIVE LÊN ĐẦU: Đưa tính năng 'AI Live Subtitle' (dành cho video RAW chỉ có tiếng) lên vị trí số 1 ngay đầu Tab AI Live, kèm công tắc Bật/Tắt to rõ ràng.\n• BẢNG TRẠNG THÁI AI THỜI GIAN THỰC: Hiển thị trạng thái phân tích âm thanh trực tiếp (Đang nghe âm thanh... -> Phát hiện tiếng nói -> Đang dịch sang Tiếng Việt -> Kết quả dịch).\n• TỰ ĐỘNG KHÔI PHỤC BỘ NHẬN DẠNG: Động cơ AI Live tự động tái khởi động và chuyển ngữ liên tục, không bị treo hoặc ngắt quãng giữa các đoạn hội thoại.\n• TRÁNH NHẦM LẪN NÚT DỊCH: Tính năng dịch file phụ đề có sẵn được chuyển xuống dưới và có thông báo nhắc nhở rõ ràng.",
   "releaseDate": "2026-10-29"
 }
