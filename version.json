@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "0.5.0",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.5.0/app-debug.apk",
-  "changelog": "🚀 TÍCH HỢP TRỰC TIẾP VPN 1.1.1.1 & DNS BẢO MẬT (IN-APP):\n• 1 chạm kích hoạt VPN 1.1.1.1 Cloudflare / AdGuard ngay trong app, không cần cài thêm app thứ 3.\n• Mã hóa 100% truy vấn tên miền, chống nhà mạng (Viettel/VNPT) theo dõi & vượt chặn web.\n• Chế độ 'Chỉ bảo vệ AN Browser' siêu tiết kiệm pin, không ảnh hưởng app khác (Zalo, Ngân hàng).\n• Biểu tượng VPN 1.1.1.1 phát sáng trực quan trên thanh địa chỉ.\n• Tối ưu mở tab mới từ video và bàn phím bật tức thì khi gõ URL.",
+  "versionCode": 14,
+  "versionName": "0.5.1",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.5.1/app-debug.apk",
+  "changelog": "🔥 BẢN CẬP NHẬT HOÀN THIỆN v0.5.1:\n• ĐÈ MỞ TAB MỚI CHUẨN XÁC: Nhận diện chính xác link trang web video khi đè vào thumbnail (không còn bị mở mỗi tấm ảnh trắng).\n• BÀN PHÍM BẬT TỨC THÌ: Bấm vào thanh URL cố định ở trên là bàn phím bật ngay lập tức, gõ trực tiếp không cần bấm thêm bước nào.\n• CHỐNG MẤT TAB & LỊCH SỬ: Hệ thống Dual-Storage & Auto-Backup bảo vệ toàn bộ tab và lịch sử bền vững, không bao giờ mất khi cập nhật hay khởi động lại app.\n• ÉP TẢI VIDEO 1080p FULL HD: Bộ tải 8 luồng tự động chọn độ phân giải nét nhất (1080p FHD / 720p HD / Master HLS).\n• TRIỆT PHÁ POPUP QUẢNG CÁO CỜ BẠC: Tự động xóa sổ banner nổ hũ MM88, V79, QQ88 che màn hình và video.",
   "releaseDate": "2026-10-29"
 }
