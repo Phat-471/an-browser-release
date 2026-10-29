@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "0.4.5",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.4.5/app-debug.apk",
-  "changelog": "• Sửa triệt để lỗi mở tab mới: Tự động trích xuất link trang web video HTML nguyên bản (không còn bị ra ảnh tĩnh).\n• Bấm ô địa chỉ hiện ngay bàn phím tức thì không cần thao tác phụ.\n• Cố định thanh địa chỉ trên cùng mượt mà chuẩn hiện đại.\n• Chuẩn hóa menu đè (long-press): Xem ảnh, Mở tab mới, Mở tab nền, Chặn quảng cáo, Lưu ảnh.",
+  "versionCode": 13,
+  "versionName": "0.5.0",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.5.0/app-debug.apk",
+  "changelog": "🚀 TÍCH HỢP TRỰC TIẾP VPN 1.1.1.1 & DNS BẢO MẬT (IN-APP):\n• 1 chạm kích hoạt VPN 1.1.1.1 Cloudflare / AdGuard ngay trong app, không cần cài thêm app thứ 3.\n• Mã hóa 100% truy vấn tên miền, chống nhà mạng (Viettel/VNPT) theo dõi & vượt chặn web.\n• Chế độ 'Chỉ bảo vệ AN Browser' siêu tiết kiệm pin, không ảnh hưởng app khác (Zalo, Ngân hàng).\n• Biểu tượng VPN 1.1.1.1 phát sáng trực quan trên thanh địa chỉ.\n• Tối ưu mở tab mới từ video và bàn phím bật tức thì khi gõ URL.",
   "releaseDate": "2026-10-29"
 }
