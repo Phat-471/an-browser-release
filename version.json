@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.4.0",
-  "changelog": "Bản nâng cấp lớn AN Browser v0.4.0 - Tối ưu hóa kiến trúc mã nguồn & mô-đun hóa (Modular Architecture):\n- Tái cấu trúc toàn diện mã nguồn: Tách MainActivity từ gần 4.000 dòng thành các mô-đun chuyên biệt (model, util, ui/screens, ui/components, ui/dialogs) giúp ứng dụng hoạt động mượt mà, ổn định và dễ bảo trì.\n- Tối ưu DRY (Don't Repeat Yourself): Tập trung hóa các hàm dùng chung (BrowserStorage, FormatUtils, UrlUtils, DownloadHelper) loại bỏ hoàn toàn việc lặp code và tăng tốc độ xử lý.\n- Giữ nguyên 100% tất cả các tính năng cao cấp: Chặn quảng cáo EasyList/ABPVN, Cyber Cinema Rạp Phim, PiP tự động, Chế độ Ẩn danh toàn cục, Menu lưới 4 cột, Cử chỉ vuốt video chuyên sâu.",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.4.0/app-debug.apk"
+  "versionCode": 8,
+  "versionName": "0.4.1",
+  "changelog": "Bản nâng cấp AN Browser v0.4.1 - Nâng cấp toàn diện Cài đặt, Cố định thanh địa chỉ & Nhấn đè menu mở rộng:\n- Tối ưu Cài đặt gọn gàng: Bổ sung thanh Tab phân loại (Bảo mật, Duyệt web, Video, Tải về) giúp giao diện tinh gọn, không rối mắt.\n- Thêm nhiều tính năng mới ở Cài đặt: Tùy chọn Công cụ tìm kiếm mặc định (Google, DuckDuckGo, Bing, Brave, Cốc Cốc, Yahoo), Cố định thanh địa chỉ trên cùng, Cưỡng chế phóng to trang web (Zoom), Chặn cửa sổ Pop-up, Dọn dẹp cache WebView 1 chạm, Tự động xóa lịch sử khi thoát.\n- Tối ưu thanh địa chỉ trên cùng: Cố định ở trên đỉnh không bị trôi khi cuộn, bấm vào là kích hoạt nhập trực tiếp nảy bàn phím ảo ngay lập tức, tự bôi đen URL cũ và có nút Dán nhanh.\n- Menu nhấn đè (Long-press Context Menu): Đè im vào bất kỳ liên kết (Link), Video hoặc Hình ảnh trên web để mở menu tùy chọn nhanh (Mở thẻ mới, Mở thẻ ẩn danh, Mở thẻ nền, Xem Rạp Phim Cyber Cinema, Tải video/ảnh, Sao chép, Chia sẻ).",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.4.1/app-debug.apk"
 }
