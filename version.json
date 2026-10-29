@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "0.4.2",
-  "changelog": "Bản cập nhật nóng AN Browser v0.4.2 - Khắc phục triệt để lỗi mở tab liên kết video, nảy bàn phím tức thì & Chế độ Siêu Nét AI:\n- Sửa triệt để lỗi đè im mở tab mới bị ra file ảnh tĩnh: Ưu tiên bắt chính xác thẻ liên kết <a> bao quanh ảnh đại diện video (DOM & requestFocusNodeHref), bấm 'Mở trang web trong thẻ mới' sẽ mở đúng nguyên trang video có giao diện, player và mô tả đầy đủ.\n- Tối ưu thanh địa chỉ trên cùng: Loại bỏ hoàn toàn hộp thoại pop-up thừa ở giữa màn hình; Bấm vào thanh địa chỉ là kích hoạt ngay chế độ nhập trực tiếp, bàn phím ảo tự động nảy lên tức thì kèm tự bôi đen URL cũ để gõ đè nhanh.\n- Bổ sung Chế độ Siêu Nét AI (FSR / Edge Sharpening) trong Rạp Phim Cyber Cinema: Khử mờ nhòe, tái tạo chi tiết viền sắc nét vượt trội cho các video 720p/480p trên màn hình điện thoại Full HD/2K.\n- Bổ sung bộ chọn độ phân giải video trong Cyber Cinema: Tự động, Cưỡng chế 1080p Full HD, 720p HD, 480p Tiết kiệm.",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.4.2/app-debug.apk"
+  "versionCode": 10,
+  "versionName": "0.4.3",
+  "changelog": "Bản cập nhật v0.4.3 - Khắc phục triệt để lỗi mở thẻ video, nảy bàn phím tức thì & Chặn banner quảng cáo cờ bạc:\n- Sửa triệt để lỗi đè im (long-press) mở tab mới bị ra file ảnh tĩnh: Sử dụng cơ chế Handler bất đồng bộ lấy chính xác href của thẻ <a> chứa thumbnail video. Bấm 'Mở trang web trong thẻ mới' mở đúng nguyên trang video đầy đủ giao diện.\n- Bổ sung tính năng 'Chặn quảng cáo này' trong menu nhấn giữ: Cho phép ẩn vĩnh viễn bất kỳ banner, link cờ bạc hay phần tử rác nào trên trang.\n- Tự động xóa sạch các banner cờ bạc nổi tiếng (MM88, V79, QQ88, Hi88, Nổ Hũ, Bắn Cá...) và popup quảng cáo nổi che màn hình.\n- Tối ưu thanh địa chỉ trên cùng: Loại bỏ triệt để pop-up ở giữa màn hình; chạm vào thanh URL là bàn phím ảo tự nảy lên tức thì kèm bôi đen URL cũ để gõ ngay.\n- Tích hợp Chế độ Siêu Nét AI & Tùy chọn chất lượng video trong Rạp Phim Cyber Cinema.",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.4.3/app-debug.apk"
 }
