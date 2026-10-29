@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "0.4.3",
-  "changelog": "Bản cập nhật v0.4.3 - Khắc phục triệt để lỗi mở thẻ video, nảy bàn phím tức thì & Chặn banner quảng cáo cờ bạc:\n- Sửa triệt để lỗi đè im (long-press) mở tab mới bị ra file ảnh tĩnh: Sử dụng cơ chế Handler bất đồng bộ lấy chính xác href của thẻ <a> chứa thumbnail video. Bấm 'Mở trang web trong thẻ mới' mở đúng nguyên trang video đầy đủ giao diện.\n- Bổ sung tính năng 'Chặn quảng cáo này' trong menu nhấn giữ: Cho phép ẩn vĩnh viễn bất kỳ banner, link cờ bạc hay phần tử rác nào trên trang.\n- Tự động xóa sạch các banner cờ bạc nổi tiếng (MM88, V79, QQ88, Hi88, Nổ Hũ, Bắn Cá...) và popup quảng cáo nổi che màn hình.\n- Tối ưu thanh địa chỉ trên cùng: Loại bỏ triệt để pop-up ở giữa màn hình; chạm vào thanh URL là bàn phím ảo tự nảy lên tức thì kèm bôi đen URL cũ để gõ ngay.\n- Tích hợp Chế độ Siêu Nét AI & Tùy chọn chất lượng video trong Rạp Phim Cyber Cinema.",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.4.3/app-debug.apk"
+  "versionCode": 11,
+  "versionName": "0.4.4",
+  "changelog": "Bản cập nhật v0.4.4 - Khắc phục triệt để lỗi mở tab mới & Bảo toàn 100% dữ liệu lịch sử và các tab:\n- Khắc phục lỗi mở tab mới: Sửa hoàn toàn lỗi gán nhầm URL khi mở tab trong nền, chuẩn hóa các tùy chọn 'Xem ảnh', 'Mở trong tab mới', 'Mở trong tab nền', 'Copy đường dẫn', 'Chặn quảng cáo này' chuẩn xác 100% như app mẫu.\n- Tự động phục hồi (Self-healing) các tab bị lỗi URL trước đó.\n- Khắc phục triệt để lỗi mất dữ liệu khi cập nhật: Loại bỏ việc lưu vĩnh viễn chế độ ẩn danh làm mất lịch sử và tab; Cơ chế lưu SharedPreferences đồng bộ (commit) đảm bảo không bao giờ bị mất tab hay lịch sử khi tắt app hoặc nâng cấp phiên bản mới.\n- Duy trì Chế độ Siêu Nét AI & Chất lượng video trong Rạp Phim Cyber Cinema.",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.4.4/app-debug.apk"
 }
