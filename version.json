@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.3.1",
-  "changelog": "Bản cập nhật nóng AN Browser v0.3.1 - Khắc phục triệt để lỗi không load được web và chập chờn video:\n- Sửa lỗi không tải được trang web hoặc trang trắng không báo lỗi: Loại bỏ việc chặn nhầm luồng điều hướng Main Frame; Thêm màn hình thông báo lỗi kết nối rõ ràng và nút Thử lại/Cài DNS\n- Sửa lỗi video lúc load được lúc không: Loại bỏ script tua ép xung gây chết video trên web; Sửa lỗi chặn nhầm phân đoạn stream video (HLS/TS/MPD)\n- Tối ưu Rạp Phim Cyber Cinema: Bổ sung Cookie và Referer xác thực, tự động giải mã luồng stream khi web dùng MSE blob:\n- Giữ nguyên toàn bộ giao diện Menu Lưới (Grid) 4 cột và Chế độ Ẩn danh Stealth",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.3.1/app-debug.apk"
+  "versionCode": 7,
+  "versionName": "0.4.0",
+  "changelog": "Bản nâng cấp lớn AN Browser v0.4.0 - Tối ưu hóa kiến trúc mã nguồn & mô-đun hóa (Modular Architecture):\n- Tái cấu trúc toàn diện mã nguồn: Tách MainActivity từ gần 4.000 dòng thành các mô-đun chuyên biệt (model, util, ui/screens, ui/components, ui/dialogs) giúp ứng dụng hoạt động mượt mà, ổn định và dễ bảo trì.\n- Tối ưu DRY (Don't Repeat Yourself): Tập trung hóa các hàm dùng chung (BrowserStorage, FormatUtils, UrlUtils, DownloadHelper) loại bỏ hoàn toàn việc lặp code và tăng tốc độ xử lý.\n- Giữ nguyên 100% tất cả các tính năng cao cấp: Chặn quảng cáo EasyList/ABPVN, Cyber Cinema Rạp Phim, PiP tự động, Chế độ Ẩn danh toàn cục, Menu lưới 4 cột, Cử chỉ vuốt video chuyên sâu.",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.4.0/app-debug.apk"
 }
