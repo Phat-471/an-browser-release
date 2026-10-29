@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "0.5.2",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.5.2/app-debug.apk",
-  "changelog": "🔥 BẢN CẬP NHẬT HOÀN THIỆN v0.5.2:\n• TẢI ĐA LUỒNG KIỂU IDM: Tải video 8 luồng song song siêu tốc (HTTP Range Requests), truy vấn chính xác 100% dung lượng gốc (Content-Length) của file.\n• THANH TIẾN TRÌNH & PHẦN TRĂM CHUẨN XÁC: Hiển thị đúng 0% -> 100%, tốc độ tải thực tế MB/s và dung lượng Đã tải / Tổng dung lượng mượt mà (cả video trực tiếp và luồng HLS).\n• CHỐNG BẮT NHẦM CLIP QUẢNG CÁO: Tự động loại bỏ hoàn toàn các clip quảng cáo pre-roll ngắn (v79, mm88, hi88, sanstreamplay), chỉ bắt và tải đúng video phim chính chất lượng cao nhất (1080p FHD / 720p HD).\n• NGHE ÂM THANH KHI TẮT MÀN HÌNH: Tùy chọn Bật/Tắt trực quan trong Cài Đặt. Khi bật, thoải mái nghe nhạc, podcast, phim khi tắt màn hình hoặc chuyển sang ứng dụng khác.\n• MỞ TRANG VIDEO TỪ THUMBNAIL: Đè vào hình đại diện video để 'Mở trong tab mới' sẽ mở thẳng nguyên trang video của clip đó giống như trình duyệt chuẩn.",
+  "versionCode": 16,
+  "versionName": "0.5.3",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.5.3/app-debug.apk",
+  "changelog": "🎬 ĐỘT PHÁ PHỤ ĐỀ THÔNG MINH v0.5.3:\n• QUẢN LÝ PHỤ ĐỀ (CYBER SUBTITLES): Trình phát Cyber Cinema tích hợp menu Phụ Đề chuyên nghiệp.\n• NẠP PHỤ ĐỀ RỜI (.SRT / .VTT): Cho phép chọn file phụ đề trực tiếp từ bộ nhớ máy hoặc dán link URL phụ đề trực tuyến.\n• TỰ ĐỘNG BẮT PHỤ ĐỀ TRÊN WEB: Tự động trích xuất phụ đề có sẵn trên trang web/player sang Cyber Cinema.\n• TỰ ĐỘNG NHẬN SUB PHIM TẢI VỀ: Nếu trong thư mục tải về có file .srt hoặc .vtt trùng tên với video tải, trình phát sẽ tự động nạp ngay khi mở phim.\n• ĐỒNG BỘ LỆCH THỜI GIAN (DELAY SYNC): Bảng chỉnh lệch thời gian linh hoạt (-1.0s, -0.5s, 0.0s, +0.5s, +1.0s) khớp từng câu thoại của diễn viên, không giật lag.\n• TÙY BIẾN GIAO DIỆN CHỮ: Tùy chọn 3 cỡ chữ (Nhỏ, Vừa, Lớn) và 3 màu sắc sắc nét (Trắng tinh, Vàng Cyber, Xanh Mint) trên nền đen bóng đổ chống chói mắt.",
   "releaseDate": "2026-10-29"
 }
