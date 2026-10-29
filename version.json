@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "0.5.3",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.5.3/app-debug.apk",
-  "changelog": "🎬 ĐỘT PHÁ PHỤ ĐỀ THÔNG MINH v0.5.3:\n• QUẢN LÝ PHỤ ĐỀ (CYBER SUBTITLES): Trình phát Cyber Cinema tích hợp menu Phụ Đề chuyên nghiệp.\n• NẠP PHỤ ĐỀ RỜI (.SRT / .VTT): Cho phép chọn file phụ đề trực tiếp từ bộ nhớ máy hoặc dán link URL phụ đề trực tuyến.\n• TỰ ĐỘNG BẮT PHỤ ĐỀ TRÊN WEB: Tự động trích xuất phụ đề có sẵn trên trang web/player sang Cyber Cinema.\n• TỰ ĐỘNG NHẬN SUB PHIM TẢI VỀ: Nếu trong thư mục tải về có file .srt hoặc .vtt trùng tên với video tải, trình phát sẽ tự động nạp ngay khi mở phim.\n• ĐỒNG BỘ LỆCH THỜI GIAN (DELAY SYNC): Bảng chỉnh lệch thời gian linh hoạt (-1.0s, -0.5s, 0.0s, +0.5s, +1.0s) khớp từng câu thoại của diễn viên, không giật lag.\n• TÙY BIẾN GIAO DIỆN CHỮ: Tùy chọn 3 cỡ chữ (Nhỏ, Vừa, Lớn) và 3 màu sắc sắc nét (Trắng tinh, Vàng Cyber, Xanh Mint) trên nền đen bóng đổ chống chói mắt.",
+  "versionCode": 17,
+  "versionName": "0.5.4",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.5.4/app-debug.apk",
+  "changelog": "⚡ SIÊU BẢN CẬP NHẬT v0.5.4: PHỤ ĐỀ ONLINE & AI LIVE SUBTITLE\n• GIAI ĐOẠN 2 - TỰ ĐỘNG TÌM SUB ONLINE: Trích xuất tên phim sạch từ web, tìm kiếm kho OpenSubtitles / Cinemeta đa nguồn, tải và nạp sub Vietsub trong 1 chạm.\n• GIAI ĐOẠN 3 - AI LIVE SUBTITLE: Đột phá xem video RAW không có bất kỳ sub nào! Tự động nhận diện giọng nói diễn viên (Tiếng Nhật, Tiếng Anh, Tiếng Trung, Tiếng Hàn) và dịch trực tiếp sang Tiếng Việt theo thời gian thực.\n• AI DỊCH NGUYÊN BẢN PHỤ ĐỀ: 1 Click dịch toàn bộ file phụ đề tiếng Anh/Nhật sang Tiếng Việt trong 2 giây bằng Google Neural Translation, tự động lưu file .srt vào máy.\n• LƯU PHỤ ĐỀ AI: Cho phép xuất toàn bộ các câu thoại vừa được AI dịch trực tiếp thành tệp .srt chuẩn để lưu trữ và xem ngoại tuyến.",
   "releaseDate": "2026-10-29"
 }
