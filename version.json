@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "0.5.1",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.5.1/app-debug.apk",
-  "changelog": "🔥 BẢN CẬP NHẬT HOÀN THIỆN v0.5.1:\n• ĐÈ MỞ TAB MỚI CHUẨN XÁC: Nhận diện chính xác link trang web video khi đè vào thumbnail (không còn bị mở mỗi tấm ảnh trắng).\n• BÀN PHÍM BẬT TỨC THÌ: Bấm vào thanh URL cố định ở trên là bàn phím bật ngay lập tức, gõ trực tiếp không cần bấm thêm bước nào.\n• CHỐNG MẤT TAB & LỊCH SỬ: Hệ thống Dual-Storage & Auto-Backup bảo vệ toàn bộ tab và lịch sử bền vững, không bao giờ mất khi cập nhật hay khởi động lại app.\n• ÉP TẢI VIDEO 1080p FULL HD: Bộ tải 8 luồng tự động chọn độ phân giải nét nhất (1080p FHD / 720p HD / Master HLS).\n• TRIỆT PHÁ POPUP QUẢNG CÁO CỜ BẠC: Tự động xóa sổ banner nổ hũ MM88, V79, QQ88 che màn hình và video.",
+  "versionCode": 15,
+  "versionName": "0.5.2",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.5.2/app-debug.apk",
+  "changelog": "🔥 BẢN CẬP NHẬT HOÀN THIỆN v0.5.2:\n• TẢI ĐA LUỒNG KIỂU IDM: Tải video 8 luồng song song siêu tốc (HTTP Range Requests), truy vấn chính xác 100% dung lượng gốc (Content-Length) của file.\n• THANH TIẾN TRÌNH & PHẦN TRĂM CHUẨN XÁC: Hiển thị đúng 0% -> 100%, tốc độ tải thực tế MB/s và dung lượng Đã tải / Tổng dung lượng mượt mà (cả video trực tiếp và luồng HLS).\n• CHỐNG BẮT NHẦM CLIP QUẢNG CÁO: Tự động loại bỏ hoàn toàn các clip quảng cáo pre-roll ngắn (v79, mm88, hi88, sanstreamplay), chỉ bắt và tải đúng video phim chính chất lượng cao nhất (1080p FHD / 720p HD).\n• NGHE ÂM THANH KHI TẮT MÀN HÌNH: Tùy chọn Bật/Tắt trực quan trong Cài Đặt. Khi bật, thoải mái nghe nhạc, podcast, phim khi tắt màn hình hoặc chuyển sang ứng dụng khác.\n• MỞ TRANG VIDEO TỪ THUMBNAIL: Đè vào hình đại diện video để 'Mở trong tab mới' sẽ mở thẳng nguyên trang video của clip đó giống như trình duyệt chuẩn.",
   "releaseDate": "2026-10-29"
 }
