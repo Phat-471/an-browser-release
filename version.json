@@ -1,6 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "0.4.4",
-  "changelog": "Bản cập nhật v0.4.4 - Khắc phục triệt để lỗi mở tab mới & Bảo toàn 100% dữ liệu lịch sử và các tab:\n- Khắc phục lỗi mở tab mới: Sửa hoàn toàn lỗi gán nhầm URL khi mở tab trong nền, chuẩn hóa các tùy chọn 'Xem ảnh', 'Mở trong tab mới', 'Mở trong tab nền', 'Copy đường dẫn', 'Chặn quảng cáo này' chuẩn xác 100% như app mẫu.\n- Tự động phục hồi (Self-healing) các tab bị lỗi URL trước đó.\n- Khắc phục triệt để lỗi mất dữ liệu khi cập nhật: Loại bỏ việc lưu vĩnh viễn chế độ ẩn danh làm mất lịch sử và tab; Cơ chế lưu SharedPreferences đồng bộ (commit) đảm bảo không bao giờ bị mất tab hay lịch sử khi tắt app hoặc nâng cấp phiên bản mới.\n- Duy trì Chế độ Siêu Nét AI & Chất lượng video trong Rạp Phim Cyber Cinema.",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.4.4/app-debug.apk"
+  "versionCode": 12,
+  "versionName": "0.4.5",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.4.5/app-debug.apk",
+  "changelog": "• Sửa triệt để lỗi mở tab mới: Tự động trích xuất link trang web video HTML nguyên bản (không còn bị ra ảnh tĩnh).\n• Bấm ô địa chỉ hiện ngay bàn phím tức thì không cần thao tác phụ.\n• Cố định thanh địa chỉ trên cùng mượt mà chuẩn hiện đại.\n• Chuẩn hóa menu đè (long-press): Xem ảnh, Mở tab mới, Mở tab nền, Chặn quảng cáo, Lưu ảnh.",
+  "releaseDate": "2026-10-29"
 }
