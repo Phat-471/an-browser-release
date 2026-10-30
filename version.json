@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "0.6.6",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.6/app-debug.apk",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.6/app-debug.apk",
-  "changelog": "💋 BỘ GÓI NGÔN NGỮ JAV 18+ MỞ RỘNG (450+ TỪ ĐIỂN) & BỘ NẮN ÂM ĐỒNG ÂM THỞ DỐC (Build 28):\n• 🎯 BỘ NẮN ÂM ĐỒNG ÂM JAV (Acoustic JAV Phonetic Corrector): Khắc phục triệt để lỗi Google nghe nhầm tiếng thở dốc/rên rỉ thành từ vô nghĩa (như 'bánh kẹo', 'kimono', 'hôm qua', 'tôi đi', 'vô dụng') ➔ Tự động nắn chuẩn xác về 'sướng muốn phát điên', 'sướng quá anh ơi', 'em ra mất thôi', 'đừng mà anh', 'bắn vào trong em'.\n• 🔍 BỘ CHỌN GIẢ THUYẾT JAV ĐA PHƯƠNG ÁN (5 Hypotheses Selector): Quét toàn bộ 5 kết quả phán đoán của Google, tự động vượt qua kiểm duyệt để bốc trúng phương án từ ngữ 18+ thực tế diễn viên nói.\n• 📚 GÓI NGÔN NGỮ JAV 18+ MỞ RỘNG (450+ CỤM TỪ PHÒNG THU): Nạp sẵn kho từ ngữ 18+ phong phú nhất (rên rỉ, lên đỉnh, kích thích, khen ngợi, dirty talk, xưng hô anh - em) dịch thoát nghĩa 100% cảm xúc kích thích.\n• 💨 BỘ LỌC TRIỆT TIÊU TIẾNG GIÓ THỞ DỐC (Panting De-Breath Filter): Cắt dải gió trầm đập vào mic để tiếng nói của diễn viên lọt vào AI trong trẻo, rõ từng phụ âm.",
+  "versionCode": 29,
+  "versionName": "0.6.7",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.7/app-debug.apk",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.7/app-debug.apk",
+  "changelog": "⚡ BỘ BẮT TRỌN 100% LỜI THOẠI LIÊN TỤC (ZERO-GAP PRE-ROLL + WHISPER AGC 5.5X) (Build 29):\n• 🔄 BỘ ĐỆM GỐI ĐẦU 300ms (Overlapping Pre-Roll Ring Buffer): Tự động giữ và nạp tiếp 300ms âm thanh trước khi mở cửa sổ mới, triệt tiêu hoàn toàn khoảng mù chuyển phiên ➔ KHÔNG BAO GIỜ MẤT CHỮ ĐẦU CÂU.\n• 🎙️ TỐI ƯU NGƯỠNG CẮT CÂU LIÊN TỤC (Continuous Speech VAD 850ms): Nâng ngưỡng nghỉ tự nhiên từ 320ms lên 850ms, không còn ngắt câu sớm khi diễn viên vừa thở dốc vừa nói ngắt quãng ➔ Lấy trọn vẹn cả câu dài không sót chữ.\n• 🔊 KHUẾCH ĐẠI LỜI THÌ THẦM 5.5X & MỞ RỘNG DẢI TẦN PHỤ ÂM (140Hz - 4500Hz): Giữ nguyên vẹn các phụ âm đầu/cuối (k, s, t, ch, m) và tự động kích âm câu nói nhỏ/thì thầm lên gấp 5.5 lần để AI nhận diện rõ từng chữ một.",
   "releaseDate": "2026-10-30"
 }
