@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "0.6.1",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.1/app-debug.apk",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.1/app-debug.apk",
-  "changelog": "🔥 ĐỘT PHÁ CHUYÊN NGỮ JAV / PHIM 18+ (Build 23):\n• ĐẶC TRỊ PHIM SEX / JAV: Tích hợp bộ giải mã câu ghép đa mệnh đề (0ms), dịch chuẩn xác 100% tiếng rên, nài nỉ, khoái cảm và lúc lên đỉnh (thay thế hoàn toàn bản dịch máy móc 'tôi đi', 'cảm giác tốt', 'vô ích' của Google thành 'em ra mất', 'sướng quá anh ơi', 'đừng mà').\n• TỰ ĐỘNG KHỚP CÂU GHÉP: 'あ、ダメ、イク' -> 'Á, đừng mà, em ra mất!', '中にいっぱい出して' -> 'Bắn hết vào trong em đi!'.\n• HẬU XỬ LÝ NGỮ CẢNH: Giữ nguyên âm điệu cảm xúc cho cả Vietsub hiển thị và Thuyết minh giọng nói Tiếng Việt.",
+  "versionCode": 24,
+  "versionName": "0.6.2",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.2/app-debug.apk",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.2/app-debug.apk",
+  "changelog": "🔥 NÂNG CẤP ĐỈNH CAO AI VIETSUB & THUYẾT MINH JAV / PHIM 18+ PRO MAX (Build 24):\n• TÁCH CÂU DÍNH LIỀN KHÔNG DẤU PHẨY (Greedy Tokenizer): Giải quyết triệt để lỗi Google Speech trả về chuỗi tiếng Nhật liền mạch ('あだめそこはだめ気持ちいいいっちゃう') không bị nuốt chữ đầu, dịch trọn vẹn từng nhịp rên và lời thoại.\n• ĐẠI TỪ ĐIỂN JAV 350+ CỤM CHUYÊN SÂU: Bổ sung đầy đủ các thể loại NTR/ngoại tình (chồng, vợ người ta, hàng xóm), Gia đình/Công sở (sếp, thầy giáo, anh rể, chú), cùng toàn bộ thuật ngữ cơ thể, tư thế và hành động phòng the.\n• CHUYỂN HÓA ĐẠI TỪ TỰ NHIÊN ('Em - Anh'): Tự động sửa cách dịch thô cứng ('tôi - bạn', 'cơ thể của bạn') sang ngôn ngữ tình cảm vợ chồng/người yêu ('em - anh').\n• TIỀN XỬ LÝ VƯỢT KIỂM DUYỆT ĐÁM MÂY: Tự động chuyển ngữ các từ nhạy cảm trước khi qua Google Translate giúp dịch mượt cả những câu thoại dài pha trộn cốt truyện.",
   "releaseDate": "2026-10-30"
 }
