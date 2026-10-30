@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "0.6.5",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.5/app-debug.apk",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.5/app-debug.apk",
-  "changelog": "🔥 BỘ NÂNG CẤP PHÒNG THU CHUYÊN SÂU AI PHỤ ĐỀ & THUYẾT MINH STUDIO (Build 27):\n• 🎭 THUYẾT MINH ĐA GIỌNG ĐỐI THOẠI NAM & NỮ: Bóc tách cao độ tần số F0 (Autocorrelation F0 Pitch Tracker) theo thời gian thực để tự động phân luồng giọng Nam trầm ấm (pitch 0.82) và Nữ trong trẻo (pitch 1.08).\n• 🧠 BỘ NHỚ NGỮ CẢNH CỐT TRUYỆN (5-Utterance Context Memory): Tự động nhận diện mối quan hệ nhân vật (vợ chồng, sếp/nhân viên, chị dâu/ngoại tình, gia đình) để xưng hô chuẩn xác 'anh - em', 'chú - cháu', 'chị dâu - em chồng' theo đúng diễn biến phim.\n• ⚡ KHỚP KHẨU HÌNH ĐỘNG (Lip-Sync Dynamic Speech-Rate): Tự động co giãn tốc độ đọc theo độ dài câu nói gốc của nhân vật, giúp thuyết minh khớp miệng như lồng tiếng rạp chiếu phim.\n• 🎛️ BỔ SUNG CÔNG TẮC BẬT/TẮT TÙY BIẾN TRONG BẢNG CÀI ĐẶT PHỤ ĐỀ: Dễ dàng bật tắt Thuyết minh đối thoại Nam Nữ, Ghi nhớ cốt truyện và Khớp khẩu hình động theo ý muốn.",
+  "versionCode": 28,
+  "versionName": "0.6.6",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.6/app-debug.apk",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.6/app-debug.apk",
+  "changelog": "💋 BỘ GÓI NGÔN NGỮ JAV 18+ MỞ RỘNG (450+ TỪ ĐIỂN) & BỘ NẮN ÂM ĐỒNG ÂM THỞ DỐC (Build 28):\n• 🎯 BỘ NẮN ÂM ĐỒNG ÂM JAV (Acoustic JAV Phonetic Corrector): Khắc phục triệt để lỗi Google nghe nhầm tiếng thở dốc/rên rỉ thành từ vô nghĩa (như 'bánh kẹo', 'kimono', 'hôm qua', 'tôi đi', 'vô dụng') ➔ Tự động nắn chuẩn xác về 'sướng muốn phát điên', 'sướng quá anh ơi', 'em ra mất thôi', 'đừng mà anh', 'bắn vào trong em'.\n• 🔍 BỘ CHỌN GIẢ THUYẾT JAV ĐA PHƯƠNG ÁN (5 Hypotheses Selector): Quét toàn bộ 5 kết quả phán đoán của Google, tự động vượt qua kiểm duyệt để bốc trúng phương án từ ngữ 18+ thực tế diễn viên nói.\n• 📚 GÓI NGÔN NGỮ JAV 18+ MỞ RỘNG (450+ CỤM TỪ PHÒNG THU): Nạp sẵn kho từ ngữ 18+ phong phú nhất (rên rỉ, lên đỉnh, kích thích, khen ngợi, dirty talk, xưng hô anh - em) dịch thoát nghĩa 100% cảm xúc kích thích.\n• 💨 BỘ LỌC TRIỆT TIÊU TIẾNG GIÓ THỞ DỐC (Panting De-Breath Filter): Cắt dải gió trầm đập vào mic để tiếng nói của diễn viên lọt vào AI trong trẻo, rõ từng phụ âm.",
   "releaseDate": "2026-10-30"
 }
