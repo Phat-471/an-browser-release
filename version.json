@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "0.6.3",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.3/app-debug.apk",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.3/app-debug.apk",
-  "changelog": "🔥 ĐỘT PHÁ TOÀN DIỆN TRẢI NGHIỆM XEM PHIM & PHỤ ĐỀ CINEMA (Build 25):\n• GIAO DIỆN PHỤ ĐỀ MỚI: Chỉ hiển thị DUY NHẤT tiếng Việt chuẩn Cinema siêu gọn gàng, loại bỏ hoàn toàn các huy hiệu, dòng tiếng Nhật và chữ trạng thái che màn hình, tự động ẩn khi không có lời thoại.\n• ĐIỀU CHỈNH VỊ TRÍ PHỤ ĐỀ: Thêm tùy chọn vị trí hiển thị (Đáy gọn mặc định / Vừa tầm / Trên cao) trong menu phụ đề.\n• AUDIO DUCKING TỰ ĐỘNG: Tự động giảm âm lượng phim xuống 20% khi thuyết minh tiếng Việt đọc và tự phục hồi 100% khi đọc xong.\n• SIÊU LỌC TẠP ÂM & NHẠC NỀN: Lọc bỏ dải tần bass dồn dập và tiếng ồn lớn để bóc tách lời thoại siêu nét kể cả khi có nhạc nền to.\n• PHÁT ÂM THANH KHI TẮT MÀN HÌNH: Nghe trọn vẹn tiếng phim và thuyết minh AI khi khóa máy hoặc chuyển ứng dụng.\n• TĂNG TỐC TẢI VIDEO ĐA LUỒNG: Nâng cấp 16 luồng song song tải m3u8/mp4 siêu tốc.\n• CHẶN NHẢY TAB & POPUP QUẢNG CÁO PHIM: Chặn đứng các trang cờ bạc tự động chuyển hướng khi bấm nút Play trên web phim.",
+  "versionCode": 26,
+  "versionName": "0.6.4",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.4/app-debug.apk",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.4/app-debug.apk",
+  "changelog": "⚡ TỐI ƯU SIÊU NHẠY CHO CÂU NÓI NHANH & DỒN DẬP (Build 26):\n• BẮT NHẠY CÂU NÓI NHANH (Fast-Attack AGC): Tự động khuếch đại tức thì (trong 1 khung) các âm tiết nói nhanh, tiếng thì thầm dồn dập hoặc tiếng rên ngắn không bị nuốt âm đầu.\n• HẠ NGƯỠNG THỜI LƯỢNG CÂU XUỐNG 200MS: Nhận diện chính xác 100% các từ cảm thán nói nhanh chỉ 240ms - 400ms (như 'đừng mà', 'khoan đã', 'ra mất', 'đau quá', 'nhanh quá',...).\n• PHẢN HỒI THỜI GIAN THỰC 350MS: Tăng tốc độ hiển thị phụ đề trực tiếp bám sát từng nhịp nói nhanh của nhân vật.\n• KHÔNG BỊ CHẶN CÂU NÓI LẶP NHANH: Cho phép nhận diện đầy đủ các cụm từ lặp dồn dập ('dame! dame!', 'iku! iku!') mà không bị lọc bỏ.",
   "releaseDate": "2026-10-30"
 }
