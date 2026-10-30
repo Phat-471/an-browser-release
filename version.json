@@ -1,7 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "0.5.6",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.5.6/app-debug.apk",
-  "changelog": "🚀 PHỤ ĐỀ AI 1 CHẠM CHO VIDEO WEB v0.5.6:\n• LÀM MỚI TOÀN BỘ GIAO DIỆN: Bỏ sạch các tab cũ gây rối. Thiết kế lại thành 1 màn hình duy nhất, cuộn vuốt mượt mà không bao giờ bị cắt chữ khi xoay ngang.\n• ĐẶC TRỊ VIDEO RAW TRÊN WEB: Tự động lắng nghe tiếng nói nhân vật trong video trực tuyến (xxx.com, phim Nhật...) và hiển thị phụ đề dịch Tiếng Việt ngay trên màn hình.\n• NÚT BẤM '⚡ AI SUB' TRÊN VIDEO: Bấm 1 chạm ngay trên web để mở rạp phim và tự động kích hoạt phụ đề AI.\n• CHỌN NHANH 4 NGÔN NGỮ: 🇯🇵 Tiếng Nhật (mặc định), 🇺🇸 Tiếng Anh, 🇨🇳 Tiếng Trung, 🇰🇷 Tiếng Hàn.\n• LẮNG NGHE LIÊN TỤC: Giữ nguyên âm lượng phim khi nhận diện thoại, không bị tắt tiếng hay gián đoạn.",
+  "versionCode": 22,
+  "versionName": "0.6.0",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.0/app-debug.apk",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.0/app-debug.apk",
+  "changelog": "🚀 AN BROWSER v0.6.0 (Build 22):\n• TÍCH HỢP SẴN GÓI TIẾNG NHẬT AI: Không cần người dùng tải thủ công trong Cài đặt, tự nạp ngầm và dịch siêu tốc.\n• GÓI A - SUB TỰ ĐỘNG CHO VIDEO TẢI VỀ: Bóc tách âm thanh từ tệp video đã tải, tự động tạo file phụ đề .SRT và Thuyết minh Tiếng Việt khớp từng giây.\n• BỘ LỌC DSP TÁCH LỜI THOẠI: Lọc bỏ nhạc nền và tạp âm, cắt cửa sổ câu EOF 3.5s chống sót câu và chống lặp nửa câu.\n• DỊCH ĐA TẦNG 3-TIER: 100% câu bóc tách được đều dịch sang Tiếng Việt mượt mà.",
   "releaseDate": "2026-10-30"
 }
