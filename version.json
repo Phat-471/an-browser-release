@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "0.6.7",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.7/app-debug.apk",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.7/app-debug.apk",
-  "changelog": "⚡ BỘ BẮT TRỌN 100% LỜI THOẠI LIÊN TỤC (ZERO-GAP PRE-ROLL + WHISPER AGC 5.5X) (Build 29):\n• 🔄 BỘ ĐỆM GỐI ĐẦU 300ms (Overlapping Pre-Roll Ring Buffer): Tự động giữ và nạp tiếp 300ms âm thanh trước khi mở cửa sổ mới, triệt tiêu hoàn toàn khoảng mù chuyển phiên ➔ KHÔNG BAO GIỜ MẤT CHỮ ĐẦU CÂU.\n• 🎙️ TỐI ƯU NGƯỠNG CẮT CÂU LIÊN TỤC (Continuous Speech VAD 850ms): Nâng ngưỡng nghỉ tự nhiên từ 320ms lên 850ms, không còn ngắt câu sớm khi diễn viên vừa thở dốc vừa nói ngắt quãng ➔ Lấy trọn vẹn cả câu dài không sót chữ.\n• 🔊 KHUẾCH ĐẠI LỜI THÌ THẦM 5.5X & MỞ RỘNG DẢI TẦN PHỤ ÂM (140Hz - 4500Hz): Giữ nguyên vẹn các phụ âm đầu/cuối (k, s, t, ch, m) và tự động kích âm câu nói nhỏ/thì thầm lên gấp 5.5 lần để AI nhận diện rõ từng chữ một.",
+  "versionCode": 30,
+  "versionName": "0.6.8",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.8/app-debug.apk",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.8/app-debug.apk",
+  "changelog": "🔥 BỘ TÁCH MỆNH ĐỀ LAI (HYBRID CLAUSE SPLITTER) & KHỬ TỪ RÁC ĐỜI THƯỜNG (XÁ XÍU, MINI STOP) (Build 30):\n• ✂️ TÁCH CÂU & DỊCH ĐỘC LẬP TỪNG VẾ (Hybrid Clause-by-Clause Translator): Khắc phục triệt để lỗi 'dịch 1 từ thì đúng, ghép nhiều từ thành 1 câu dính liền thì sai bét'. Tự động ngắt câu dính liền thành từng mệnh đề nhỏ để tra từ điển JAV 18+ kết hợp Cloud AI cho từng vế riêng biệt.\n• 🚫 DIỆT TẬN GỐC TỪ RÁC NGHE NHẦM ('Xá xíu', 'Mini Stop', 'Mì ramen', 'Cửa hàng'): Chấm điểm loại bỏ các kết quả nhận diện sai sang tên đồ ăn/cửa hàng tiện lợi do tiếng hôn nút lưỡi hoặc thở gấp ('チャーシュー' ➔ 'Bắn ra mất thôi', 'ミニストップ' ➔ 'Đừng nhìn em, dừng lại đi anh').\n• 🎯 SỬA LỖI TRỢ TỪ TRONG BỘ TÁCH TỪ GREEDY: Không còn đếm nhầm các trợ từ (は, が, を, に) làm sai lệch tỷ lệ nhận diện câu dài.",
   "releaseDate": "2026-10-30"
 }
