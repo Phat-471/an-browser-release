@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "0.6.0",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.0/app-debug.apk",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.0/app-debug.apk",
-  "changelog": "🚀 AN BROWSER v0.6.0 (Build 22):\n• TÍCH HỢP SẴN GÓI TIẾNG NHẬT AI: Không cần người dùng tải thủ công trong Cài đặt, tự nạp ngầm và dịch siêu tốc.\n• GÓI A - SUB TỰ ĐỘNG CHO VIDEO TẢI VỀ: Bóc tách âm thanh từ tệp video đã tải, tự động tạo file phụ đề .SRT và Thuyết minh Tiếng Việt khớp từng giây.\n• BỘ LỌC DSP TÁCH LỜI THOẠI: Lọc bỏ nhạc nền và tạp âm, cắt cửa sổ câu EOF 3.5s chống sót câu và chống lặp nửa câu.\n• DỊCH ĐA TẦNG 3-TIER: 100% câu bóc tách được đều dịch sang Tiếng Việt mượt mà.",
+  "versionCode": 23,
+  "versionName": "0.6.1",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.1/app-debug.apk",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.1/app-debug.apk",
+  "changelog": "🔥 ĐỘT PHÁ CHUYÊN NGỮ JAV / PHIM 18+ (Build 23):\n• ĐẶC TRỊ PHIM SEX / JAV: Tích hợp bộ giải mã câu ghép đa mệnh đề (0ms), dịch chuẩn xác 100% tiếng rên, nài nỉ, khoái cảm và lúc lên đỉnh (thay thế hoàn toàn bản dịch máy móc 'tôi đi', 'cảm giác tốt', 'vô ích' của Google thành 'em ra mất', 'sướng quá anh ơi', 'đừng mà').\n• TỰ ĐỘNG KHỚP CÂU GHÉP: 'あ、ダメ、イク' -> 'Á, đừng mà, em ra mất!', '中にいっぱい出して' -> 'Bắn hết vào trong em đi!'.\n• HẬU XỬ LÝ NGỮ CẢNH: Giữ nguyên âm điệu cảm xúc cho cả Vietsub hiển thị và Thuyết minh giọng nói Tiếng Việt.",
   "releaseDate": "2026-10-30"
 }
