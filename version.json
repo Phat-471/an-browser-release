@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "0.5.5",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.5.5/app-debug.apk",
-  "changelog": "🔥 FIX TOÀN DIỆN XOAY NGANG & AI LIVE SUBTITLE v0.5.5:\n• KHẮC PHỤC LỖI XOAY NGANG: Bổ sung thanh cuộn toàn màn hình (Vertical Scroll), giao diện Cyber Cinema nền tối cao cấp không còn bị che khuất hay cắt đứt chữ khi xoay ngang điện thoại.\n• ĐƯA AI LIVE LÊN ĐẦU: Đưa tính năng 'AI Live Subtitle' (dành cho video RAW chỉ có tiếng) lên vị trí số 1 ngay đầu Tab AI Live, kèm công tắc Bật/Tắt to rõ ràng.\n• BẢNG TRẠNG THÁI AI THỜI GIAN THỰC: Hiển thị trạng thái phân tích âm thanh trực tiếp (Đang nghe âm thanh... -> Phát hiện tiếng nói -> Đang dịch sang Tiếng Việt -> Kết quả dịch).\n• TỰ ĐỘNG KHÔI PHỤC BỘ NHẬN DẠNG: Động cơ AI Live tự động tái khởi động và chuyển ngữ liên tục, không bị treo hoặc ngắt quãng giữa các đoạn hội thoại.\n• TRÁNH NHẦM LẪN NÚT DỊCH: Tính năng dịch file phụ đề có sẵn được chuyển xuống dưới và có thông báo nhắc nhở rõ ràng.",
-  "releaseDate": "2026-10-29"
+  "versionCode": 19,
+  "versionName": "0.5.6",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.5.6/app-debug.apk",
+  "changelog": "🚀 PHỤ ĐỀ AI 1 CHẠM CHO VIDEO WEB v0.5.6:\n• LÀM MỚI TOÀN BỘ GIAO DIỆN: Bỏ sạch các tab cũ gây rối. Thiết kế lại thành 1 màn hình duy nhất, cuộn vuốt mượt mà không bao giờ bị cắt chữ khi xoay ngang.\n• ĐẶC TRỊ VIDEO RAW TRÊN WEB: Tự động lắng nghe tiếng nói nhân vật trong video trực tuyến (xxx.com, phim Nhật...) và hiển thị phụ đề dịch Tiếng Việt ngay trên màn hình.\n• NÚT BẤM '⚡ AI SUB' TRÊN VIDEO: Bấm 1 chạm ngay trên web để mở rạp phim và tự động kích hoạt phụ đề AI.\n• CHỌN NHANH 4 NGÔN NGỮ: 🇯🇵 Tiếng Nhật (mặc định), 🇺🇸 Tiếng Anh, 🇨🇳 Tiếng Trung, 🇰🇷 Tiếng Hàn.\n• LẮNG NGHE LIÊN TỤC: Giữ nguyên âm lượng phim khi nhận diện thoại, không bị tắt tiếng hay gián đoạn.",
+  "releaseDate": "2026-10-30"
 }
