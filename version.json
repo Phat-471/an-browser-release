@@ -1,8 +1,8 @@
 {
-  "versionCode": 37,
-  "versionName": "0.7.5",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.7.5/app-debug.apk",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.7.5/app-debug.apk",
-  "changelog": "⚡ SIÊU NÂNG CẤP v0.7.5 (QUÉT & TẠO PHỤ ĐỀ .SRT SIÊU TỐC TOÀN BỘ PHIM - 1-2 PHÚT):\n• 🚀 QUÉT PHIM & TẠO .SRT TRONG 1-2 PHÚT (Fast Offline/Online Transcriber): Chạy ngầm bóc tách âm thanh giải mã trước toàn bộ phim chỉ trong 1-2 phút thay vì chờ xem đến đâu dịch đến đó.\n• 🌐 HỖ TRỢ CẢ PHIM TẢI VỀ LẪN XEM ONLINE TRỰC TUYẾN (Cyber Cinema): Nhận diện trọn gói file đã tải lẫn link stream web có Cookie/Referer.\n• 🧩 GHÉP NỐI CÂU THOẠI THÔNG MINH (Adjacent Voice Segment Fusion): Tự động gộp các đoạn ngắt nghỉ ngắn dưới 700ms thành câu hoàn chỉnh, giảm 65% số lần gọi STT và tăng độ chính xác ngữ pháp.\n• 🔄 TÁI SỬ DỤNG SPEECH RECOGNIZER & ZERO-DELAY PIPE STREAMING: Loại bỏ triệt để độ trễ IPC Android, truyền PCM trực tiếp vào pipe giúp Google STT trả kết quả tức thì trong ~300ms/câu.\n• 🎙️ TỰ ĐỘNG PHÂN BIỆT GIỌNG NAM/NỮ THEO TẦN SỐ CƠ BẢN (F0): Tự động nhận diện cao độ giọng nói để gán đại từ nhân xưng 'anh' / 'em' chuẩn xác theo ngữ cảnh phim.",
+  "versionCode": 38,
+  "versionName": "0.7.6",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.7.6/app-debug.apk",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.7.6/app-debug.apk",
+  "changelog": "🔥 SIÊU NÂNG CẤP v0.7.6 (AUTO-DUBBING VOICEOVER SYNC & GÓI B ON-DEVICE OFFLINE ASR):\n• 🎭 ĐỒNG BỘ THỜI LƯỢNG THUYẾT MINH (Auto-Dubbing Voiceover Sync): Tự động tính toán khung thời lượng của từng câu thoại và thời điểm câu kế tiếp, tự động tăng/giảm tốc độ đọc (1.0x - 1.8x) giúp giọng lồng tiếng luôn kết thúc chuẩn xác trong phân cảnh của nhân vật mà không bị lấn câu.\n• 🎚️ HẠ NHỎ ÂM LƯỢNG GỐC THÔNG MINH (Smart Audio Ducking): Tự động giảm âm lượng video gốc khi có tiếng thuyết minh và khôi phục êm ái khi đọc xong; bổ sung 3 mức tùy chọn: 35% (Êm dịu), 20% (Tiêu chuẩn), 10% (Tập trung).\n• 🚀 NHẬN DIỆN GIỌNG NÓI OFFLINE TRÊN CHIP MÁY (Gói B - On-Device ASR): Tích hợp trực tiếp Google OnDeviceSpeechRecognizer chạy AI trên phần cứng máy không tốn dung lượng mạng 4G/Wifi và phản hồi tức thì.\n• 🚻 TỰ ĐỘNG NHẬN BIẾT GIỌNG NAM/NỮ TỪ VĂN BẢN (Text Gender Classifier): Tự động phân tích đại từ xưng hô và ngữ cảnh thoại trong phim để phát giọng Nam trầm ấm hay Nữ trong trẻo cho cả phụ đề .SRT và dịch trực tiếp.\n• ⏸️ ĐỒNG BỘ TRẠNG THÁI TẠM DỪNG / TUA VIDEO: Lập tức dừng thuyết minh khi người dùng bấm tạm dừng hoặc tua video, không còn tình trạng hình dừng mà giọng vẫn đọc.",
   "releaseDate": "2026-10-31"
 }
