@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "0.6.8",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.8/app-debug.apk",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.8/app-debug.apk",
-  "changelog": "🔥 BỘ TÁCH MỆNH ĐỀ LAI (HYBRID CLAUSE SPLITTER) & KHỬ TỪ RÁC ĐỜI THƯỜNG (XÁ XÍU, MINI STOP) (Build 30):\n• ✂️ TÁCH CÂU & DỊCH ĐỘC LẬP TỪNG VẾ (Hybrid Clause-by-Clause Translator): Khắc phục triệt để lỗi 'dịch 1 từ thì đúng, ghép nhiều từ thành 1 câu dính liền thì sai bét'. Tự động ngắt câu dính liền thành từng mệnh đề nhỏ để tra từ điển JAV 18+ kết hợp Cloud AI cho từng vế riêng biệt.\n• 🚫 DIỆT TẬN GỐC TỪ RÁC NGHE NHẦM ('Xá xíu', 'Mini Stop', 'Mì ramen', 'Cửa hàng'): Chấm điểm loại bỏ các kết quả nhận diện sai sang tên đồ ăn/cửa hàng tiện lợi do tiếng hôn nút lưỡi hoặc thở gấp ('チャーシュー' ➔ 'Bắn ra mất thôi', 'ミニストップ' ➔ 'Đừng nhìn em, dừng lại đi anh').\n• 🎯 SỬA LỖI TRỢ TỪ TRONG BỘ TÁCH TỪ GREEDY: Không còn đếm nhầm các trợ từ (は, が, を, に) làm sai lệch tỷ lệ nhận diện câu dài.",
-  "releaseDate": "2026-10-30"
+  "versionCode": 31,
+  "versionName": "0.6.9",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.9/app-debug.apk",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.9/app-debug.apk",
+  "changelog": "🔥 NÂNG CẤP TOÀN DIỆN v0.6.9 (TỰ SỬA TỪ ĐIỂN, KÉO THẢ PHỤ ĐỀ, HEATMAP THOẠI & LỌC NHẠC NỀN DSP):\n• ✏️ TỪ ĐIỂN TÙY CHỈNH NGƯỜI DÙNG (User Custom Glossary): Chạm trực tiếp vào phụ đề hoặc biểu tượng bút để dạy AI sửa bất kỳ từ nào bị nghe nhầm theo ý thích cá nhân. Tự động áp dụng cho mọi video kế tiếp.\n• ✋ KÉO THẢ VỊ TRÍ PHỤ ĐỀ (Draggable Subtitles): Vuốt kéo phụ đề đến bất kỳ vị trí nào trên màn hình để không che các góc quay quan trọng, có nút căn giữa 1 chạm.\n• 🎵 BỘ LỌC TÁCH GIỌNG NÓI & NÉN NHẠC NỀN BGM (Vocal Isolation DSP): Suy giảm 70% nhạc nền dồn dập khi không có giọng người nói, chặn đứng hoàn toàn việc AI nhận nhầm giai điệu nhạc thành từ ngữ đồ ăn, cửa hàng.\n• 🎭 THUYẾT MINH AI BIỂU CẢM (Emotional Voiceover): Tự động điều chỉnh tông giọng nũng nịu khi thì thầm và dồn dập khi cao trào.\n• 📍 BẢN ĐỒ NHIỆT ĐOẠN THOẠI TRÊN THANH SEEKBAR (Timeline Heatmap): Hiển thị chấm phát sáng tại các mốc thời gian có nhân vật nói chuyện trong phim.\n• 🛡️ NÚT THOÁT NHANH KHẨN CẤP (Boss Key): Nút đỏ trên thanh công cụ lập tức ngắt toàn bộ âm thanh, thuyết minh và thoát video an toàn trong 0.1 giây.",
+  "releaseDate": "2026-10-31"
 }
