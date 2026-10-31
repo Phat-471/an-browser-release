@@ -1,8 +1,8 @@
 {
-  "versionCode": 41,
-  "versionName": "0.7.9",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.7.9/app-debug.apk",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.7.9/app-debug.apk",
-  "changelog": "🛡️ BẢN SỬA LỖI ĐỘT PHÁ v0.7.9 (CHẤT LƯỢNG DỊCH THUẬT CHUẨN XÁC, MƯỢT MÀ & GIỮ TRỌN CAO TRÀO):\n• 🎯 KHẮC PHỤC TRIỆT ĐỂ LỖI DỊCH SAI / VỤN VẶT / LOẠN NGHĨA: Gỡ bỏ hoàn toàn các bộ lọc thay thế quá đà trước đây, chấm dứt tình trạng các câu thoại thông thường bị dịch lệch nghĩa.\n• 🌟 ƯU TIÊN DỊCH TRỌN VẸN NGUYÊN CÂU (Google Neural MT First): Gửi trọn vẹn câu thoại tự nhiên lên hệ thống dịch nơ-ron Google GTX trước tiên, đảm bảo ngữ pháp tiếng Việt mượt mà, đầy đủ chủ ngữ - vị ngữ, không ngắt quãng vụn vặt.\n• 🍑 BẢO TOÀN TỪ VỰNG TƯ THẾ & BỜ MÔNG CHUẨN XÁC: Nhận diện chính xác ngữ cảnh bối cảnh quay mông, xem mông (oshiri) và tư thế doggy từ phía sau, phân biệt rạch ròi không bao giờ nhầm lẫn với các từ ngữ đời thường.\n• 💬 TỰ NHIÊN HÓA ĐÀM THOẠI PHIM (Anh - Em): Tinh chỉnh đại từ nhân xưng ngọt ngào, sâu lắng, khớp trọn vẹn với ngữ cảnh tình cảm và cao trào của tác phẩm.",
+  "versionCode": 42,
+  "versionName": "0.8.0",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.0/app-debug.apk",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.0/app-debug.apk",
+  "changelog": "🔥 SIÊU CẬP NHẬT v0.8.0 (BÓC TÁCH GIỌNG THÌ THẦM, DỊCH NGỮ CẢNH ĐA NGHĨA & THUYẾT MINH THÔNG MINH):\n• 🎧 BẮT TRỌN GIỌNG NÓI NHỎ & THÌ THẦM (Adaptive Whisper AGC & 2-Pass ASR): Tự động đo nền nhiễu động, khuếch đại giọng nói thầm lên tới 8.5x - 12x kèm bộ đệm Pre-roll 180ms & VAD Hangover 320ms, chấm dứt tình trạng bỏ sót lời thoại nhỏ.\n• 💬 DỊCH MỌI CÂU NGẮN & TỪ CẢM THÁN KÉO DÀI: Chuẩn hóa thông minh các tiếng rên/cảm thán kéo dài (あああっ -> あ, だめええ -> だめ, いくうう -> イク, 不要啊啊 -> 不要) và tự động ghép ngữ cảnh 2 câu trước để không bỏ sót bất kỳ câu ngắn nào.\n• 🧠 PHÂN GIẢI TỪ ĐA NGHĨA THEO NGỮ CẢNH PHIM 18+ (Sense Disambiguator): Tự động nhận biết ngữ cảnh thân mật/cao trào và giới tính để dịch chuẩn xác các từ đa nghĩa (いく, 出る, いい, そこ, だめ, 無理, おかしい, 壊れる, 干, 要去了...), không bao giờ dịch lệch sang nghĩa đen đời thường.\n• 🎙️ ĐIỀU PHỐI THUYẾT MINH KHÔNG CẮT NGANG CÂU DÀI: Tự động rút gọn từ đệm câu dài vừa khít khung hình, xếp hàng đợi nối tiếp (QUEUE_ADD) mượt mà, chống lặp nửa câu và khóa ổn định giọng Nam/Nữ.",
   "releaseDate": "2026-10-31"
 }
