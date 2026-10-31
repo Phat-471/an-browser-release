@@ -1,8 +1,8 @@
 {
-  "versionCode": 42,
-  "versionName": "0.8.0",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.0/app-debug.apk",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.0/app-debug.apk",
-  "changelog": "🔥 SIÊU CẬP NHẬT v0.8.0 (BÓC TÁCH GIỌNG THÌ THẦM, DỊCH NGỮ CẢNH ĐA NGHĨA & THUYẾT MINH THÔNG MINH):\n• 🎧 BẮT TRỌN GIỌNG NÓI NHỎ & THÌ THẦM (Adaptive Whisper AGC & 2-Pass ASR): Tự động đo nền nhiễu động, khuếch đại giọng nói thầm lên tới 8.5x - 12x kèm bộ đệm Pre-roll 180ms & VAD Hangover 320ms, chấm dứt tình trạng bỏ sót lời thoại nhỏ.\n• 💬 DỊCH MỌI CÂU NGẮN & TỪ CẢM THÁN KÉO DÀI: Chuẩn hóa thông minh các tiếng rên/cảm thán kéo dài (あああっ -> あ, だめええ -> だめ, いくうう -> イク, 不要啊啊 -> 不要) và tự động ghép ngữ cảnh 2 câu trước để không bỏ sót bất kỳ câu ngắn nào.\n• 🧠 PHÂN GIẢI TỪ ĐA NGHĨA THEO NGỮ CẢNH PHIM 18+ (Sense Disambiguator): Tự động nhận biết ngữ cảnh thân mật/cao trào và giới tính để dịch chuẩn xác các từ đa nghĩa (いく, 出る, いい, そこ, だめ, 無理, おかしい, 壊れる, 干, 要去了...), không bao giờ dịch lệch sang nghĩa đen đời thường.\n• 🎙️ ĐIỀU PHỐI THUYẾT MINH KHÔNG CẮT NGANG CÂU DÀI: Tự động rút gọn từ đệm câu dài vừa khít khung hình, xếp hàng đợi nối tiếp (QUEUE_ADD) mượt mà, chống lặp nửa câu và khóa ổn định giọng Nam/Nữ.",
-  "releaseDate": "2026-10-31"
+  "versionCode": 43,
+  "versionName": "0.8.1",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.1/app-debug.apk",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.1/app-debug.apk",
+  "changelog": "📋 BẢN NÂNG CẤP TIỆN ÍCH v0.8.1 (DÁN LINK & MỞ SIÊU TỐC TỪ BỘ NHỚ TẠM):\n• ⚡ DÁN LINK MỘT CHẠM (Smart Paste & Go): Tự động phát hiện liên kết trong bộ nhớ tạm (clipboard) khi vừa sao chép từ Zalo, Facebook, YouTube, Telegram hay trình duyệt khác.\n• 🌐 THẺ GỢI Ý MỞ NHANH TRÊN MÀN HÌNH CHÍNH & THANH URL: Hiển thị ngay thẻ đề xuất thông minh '📋 Dán & Mở liên kết' ngay dưới ô tìm kiếm, chạm 1 cái là duyệt web ngay lập tức mà không cần nhập từng chữ!\n• 🎯 NÚT DÁN & DÁN ĐÈ TRONG THANH ĐỊA CHỈ: Bổ sung nút 'Dán' trực quan khi ô nhập trống và nút 'Dán đè' thay thế link cũ chỉ với 1 chạm.\n• 🕵️ HỖ TRỢ ĐẦY ĐỦ TRÊN TAB ẨN DANH & TÌM TRONG TRANG: Bổ sung nút Dán nhanh cho cả phiên Ẩn danh và thanh Tìm kiếm nội dung trong trang.",
+  "releaseDate": "2026-11-01"
 }
