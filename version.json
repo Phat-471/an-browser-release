@@ -1,8 +1,8 @@
 {
-  "versionCode": 36,
-  "versionName": "0.7.4",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.7.4/app-debug.apk",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.7.4/app-debug.apk",
-  "changelog": "🔥 BẢN NÂNG CẤP ĐỘT PHÁ v0.7.4 (ĐỒNG BỘ KHẨU HÌNH & TINH CHỈNH ĐỘ TRỄ PHỤ ĐỀ TỰ ĐỘNG - AUTO SUB SYNC):\n• ⏱️ TỰ ĐỘNG BÙ TRỪ TRÔI PHỤ ĐỀ KHI MẠNG LAG (Auto Audio/Video Drift Calibrator): Tự động đo độ trễ pipeline và bộ đệm buffer ExoPlayer theo thời gian thực, tự động căn chỉnh để phụ đề và giọng đọc luôn gắn chặt 100% vào khẩu hình nhân vật khi xem video online bị rớt khung hình.\n• 🎛️ THANH PHÍM NỔI TINH CHỈNH ĐỘ TRỄ TRỰC TIẾP TRÊN MÀN HÌNH: Nút SyncAlt một chạm mở thanh điều khiển nổi [-0.5s] [0s Reset] [+0.5s] ngay cạnh khung phụ đề, cho phép căn chỉnh tức thì mà không cần tạm dừng video.\n• 🎯 BỘ PRESET & BƯỚC NHẢY CHÍNH XÁC 100ms: Cung cấp đầy đủ phím tắt nhanh (-2s, -1s, -0.5s, 0s, +0.5s, +1s, +2s) và 2 nút tinh chỉnh vi sai 100ms (+/- 0.1s) trong bảng cài đặt phụ đề.\n• ⏩ ĐỒNG BỘ HOÀN HẢO VỚI BẢNG KỊCH BẢN & TUA VIDEO: Nhảy tua và đánh dấu câu thoại đang phát trong bảng kịch bản tự động khớp theo độ lệch đã cấu hình.",
+  "versionCode": 37,
+  "versionName": "0.7.5",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.7.5/app-debug.apk",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.7.5/app-debug.apk",
+  "changelog": "⚡ SIÊU NÂNG CẤP v0.7.5 (QUÉT & TẠO PHỤ ĐỀ .SRT SIÊU TỐC TOÀN BỘ PHIM - 1-2 PHÚT):\n• 🚀 QUÉT PHIM & TẠO .SRT TRONG 1-2 PHÚT (Fast Offline/Online Transcriber): Chạy ngầm bóc tách âm thanh giải mã trước toàn bộ phim chỉ trong 1-2 phút thay vì chờ xem đến đâu dịch đến đó.\n• 🌐 HỖ TRỢ CẢ PHIM TẢI VỀ LẪN XEM ONLINE TRỰC TUYẾN (Cyber Cinema): Nhận diện trọn gói file đã tải lẫn link stream web có Cookie/Referer.\n• 🧩 GHÉP NỐI CÂU THOẠI THÔNG MINH (Adjacent Voice Segment Fusion): Tự động gộp các đoạn ngắt nghỉ ngắn dưới 700ms thành câu hoàn chỉnh, giảm 65% số lần gọi STT và tăng độ chính xác ngữ pháp.\n• 🔄 TÁI SỬ DỤNG SPEECH RECOGNIZER & ZERO-DELAY PIPE STREAMING: Loại bỏ triệt để độ trễ IPC Android, truyền PCM trực tiếp vào pipe giúp Google STT trả kết quả tức thì trong ~300ms/câu.\n• 🎙️ TỰ ĐỘNG PHÂN BIỆT GIỌNG NAM/NỮ THEO TẦN SỐ CƠ BẢN (F0): Tự động nhận diện cao độ giọng nói để gán đại từ nhân xưng 'anh' / 'em' chuẩn xác theo ngữ cảnh phim.",
   "releaseDate": "2026-10-31"
 }
