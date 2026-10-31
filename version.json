@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "0.7.2",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.7.2/app-debug.apk",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.7.2/app-debug.apk",
-  "changelog": "🔥 BẢN NÂNG CẤP ĐỘT PHÁ v0.7.2 (XUẤT FILE VIETSUB .SRT & BẢNG KỊCH BẢN / LỊCH SỬ THOẠI PHIM):\n• 📜 BẢNG KỊCH BẢN & LỊCH SỬ LỜI THOẠI TRỰC TIẾP: Ghi lại từng câu thoại đã dịch trong suốt quá trình xem phim. Hiển thị mốc thời gian, lời dịch Tiếng Việt chuẩn xác kèm câu gốc và phân biệt rõ giọng Nam 👨 / Nữ 👩.\n• ⏩ NHẢY ĐẾN CÂU THOẠI TRONG VIDEO (Interactive Seek): Chạm vào bất kỳ câu thoại nào trong danh sách kịch bản để video lập tức tua ngay đến phân đoạn diễn viên nói câu đó.\n• 🎯 LIVE HIGHLIGHT ĐANG PHÁT: Tự động đánh dấu sáng và làm nổi bật câu thoại đang được phát trong video theo thời gian thực.\n• 💾 XUẤT & TẢI FILE PHỤ ĐỀ .SRT CHUẨN: Bấm 1 nút để lưu toàn bộ phụ đề đã dịch thành file .srt hoàn chỉnh vào thư mục 'Downloads/LoiBrowser' trên điện thoại.\n• 📤 CHIA SẺ & SAO CHÉP TOÀN BỘ KỊCH BẢN: Dễ dàng chia sẻ file .srt qua Zalo, Telegram, Google Drive, hoặc sao chép nhanh toàn bộ kịch bản phim vào bộ nhớ tạm (Clipboard).\n• 🔍 TÌM KIẾM THOẠI NHANH: Bộ lọc tìm kiếm thông minh giúp tra cứu tức thì câu thoại bất kỳ trong toàn bộ bộ phim.",
+  "versionCode": 35,
+  "versionName": "0.7.3",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.7.3/app-debug.apk",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.7.3/app-debug.apk",
+  "changelog": "🔥 BẢN NÂNG CẤP ĐỘT PHÁ v0.7.3 (BỘ LỌC TÁCH GIỌNG NÓI & KHỬ NHẠC NỀN AI - AI VOICE ISOLATION DSP):\n• 🎧 BỘ LỌC TÁCH GIỌNG NÓI AI (Biquad Bandpass + Vocal Formant EQ): Triệt tiêu tiếng sub-bass ù rền nền (<180Hz) và tạp âm chát chúa (>3800Hz), khuếch đại dải tần hiện diện giọng nói (+5.5dB Presence Band @ 2200Hz) giúp bóc tách lời thoại và tiếng rên/thở dốc của diễn viên siêu nét.\n• 🔇 GIẢM ĐẾN 75% - 90% NHẠC NỀN BGM: Hệ thống Voice Activity Detector thông minh tự động hạ chìm âm lượng nhạc nền khi nhân vật không thoại, ngăn Google STT nhận diện nhầm giai điệu nhạc thành từ ngữ vô nghĩa.\n• 🎛️ 4 MỨC ĐỘ LỌC KHỬ ỒN CHUYÊN DỤNG: Tùy chỉnh linh hoạt ngay trong bảng phụ đề: Tắt, Tiêu Chuẩn, Tách Giọng AI (Khuyên Dùng), và Siêu Cách Ly (Extreme Vocal Isolation cho phim nhạc nền cực to).\n• 🔊 BỘ KHUẾCH ĐẠI THÌ THẦM & GIỚI HẠN MỀM (Soft Limiter): Tự động nâng lời nói nhỏ/thì thầm rõ lên tới 6 lần kết hợp thuật toán bão hòa tương tự (analog tube saturation) chống méo bể tiếng khi diễn viên hét to.",
   "releaseDate": "2026-10-31"
 }
