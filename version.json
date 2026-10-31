@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "0.6.9",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.9/app-debug.apk",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.6.9/app-debug.apk",
-  "changelog": "🔥 NÂNG CẤP TOÀN DIỆN v0.6.9 (TỰ SỬA TỪ ĐIỂN, KÉO THẢ PHỤ ĐỀ, HEATMAP THOẠI & LỌC NHẠC NỀN DSP):\n• ✏️ TỪ ĐIỂN TÙY CHỈNH NGƯỜI DÙNG (User Custom Glossary): Chạm trực tiếp vào phụ đề hoặc biểu tượng bút để dạy AI sửa bất kỳ từ nào bị nghe nhầm theo ý thích cá nhân. Tự động áp dụng cho mọi video kế tiếp.\n• ✋ KÉO THẢ VỊ TRÍ PHỤ ĐỀ (Draggable Subtitles): Vuốt kéo phụ đề đến bất kỳ vị trí nào trên màn hình để không che các góc quay quan trọng, có nút căn giữa 1 chạm.\n• 🎵 BỘ LỌC TÁCH GIỌNG NÓI & NÉN NHẠC NỀN BGM (Vocal Isolation DSP): Suy giảm 70% nhạc nền dồn dập khi không có giọng người nói, chặn đứng hoàn toàn việc AI nhận nhầm giai điệu nhạc thành từ ngữ đồ ăn, cửa hàng.\n• 🎭 THUYẾT MINH AI BIỂU CẢM (Emotional Voiceover): Tự động điều chỉnh tông giọng nũng nịu khi thì thầm và dồn dập khi cao trào.\n• 📍 BẢN ĐỒ NHIỆT ĐOẠN THOẠI TRÊN THANH SEEKBAR (Timeline Heatmap): Hiển thị chấm phát sáng tại các mốc thời gian có nhân vật nói chuyện trong phim.\n• 🛡️ NÚT THOÁT NHANH KHẨN CẤP (Boss Key): Nút đỏ trên thanh công cụ lập tức ngắt toàn bộ âm thanh, thuyết minh và thoát video an toàn trong 0.1 giây.",
+  "versionCode": 32,
+  "versionName": "0.7.0",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.7.0/app-debug.apk",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.7.0/app-debug.apk",
+  "changelog": "🔥 NÂNG CẤP ĐẠI DIỆN v0.7.0 (GÓI NGÔN NGỮ & CƠ CHẾ DỊCH PHIM 18+ TIẾNG TRUNG / SWAG / MADOU CHUYÊN SÂU):\n• 🇨🇳 BỘ TỪ ĐIỂN TIẾNG TRUNG 18+ TỨC THÌ (300+ Cụm Từ Giản Thể & Phồn Thể): Hỗ trợ đầy đủ phim người lớn Trung Quốc, Đài Loan, Hồng Kông (SWAG, 麻豆传媒, Model Media, 91). Dịch chuẩn 100% ngữ cảnh đàm thoại, tiếng rên, khẩu dâm (dirty talk), xưng hô Anh - Em tự nhiên.\n• ✂️ BỘ BÓC TÁCH CÂU TIẾNG TRUNG DÍNH LIỀN (Greedy Chinese Adult Segmenter): Giải quyết triệt để đặc tính tiếng Trung không có dấu cách khiến Google STT trả về câu dài dính liền ('好舒服快点用力操我受不了了' ➔ tự động cắt và dịch mượt mà từng mệnh đề).\n• 🚫 KHỬ LỖI DỊCH NGHĨA ĐEN NGỚ NGẨN ('我要去' ➔ 'Em sắp lên đỉnh/ra mất thôi', '我要来' ➔ 'Em sắp ra rồi', '干/操' ➔ 'Làm tình/chịch', '射' ➔ 'Bắn tinh/xuất tinh'). Không còn bị Google dịch nhầm thành 'tôi muốn đi', 'tôi đang đến' hay 'bắn súng'.\n• 📥 TỰ ĐỘNG TẢI NGẦM GÓI TIẾNG TRUNG OFFLINE: Tự động kích hoạt tải mô hình giọng nói zh-CN trên thiết bị, giúp nhận diện siêu nhạy ngay cả khi mạng yếu.",
   "releaseDate": "2026-10-31"
 }
