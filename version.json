@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "0.7.3",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.7.3/app-debug.apk",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.7.3/app-debug.apk",
-  "changelog": "🔥 BẢN NÂNG CẤP ĐỘT PHÁ v0.7.3 (BỘ LỌC TÁCH GIỌNG NÓI & KHỬ NHẠC NỀN AI - AI VOICE ISOLATION DSP):\n• 🎧 BỘ LỌC TÁCH GIỌNG NÓI AI (Biquad Bandpass + Vocal Formant EQ): Triệt tiêu tiếng sub-bass ù rền nền (<180Hz) và tạp âm chát chúa (>3800Hz), khuếch đại dải tần hiện diện giọng nói (+5.5dB Presence Band @ 2200Hz) giúp bóc tách lời thoại và tiếng rên/thở dốc của diễn viên siêu nét.\n• 🔇 GIẢM ĐẾN 75% - 90% NHẠC NỀN BGM: Hệ thống Voice Activity Detector thông minh tự động hạ chìm âm lượng nhạc nền khi nhân vật không thoại, ngăn Google STT nhận diện nhầm giai điệu nhạc thành từ ngữ vô nghĩa.\n• 🎛️ 4 MỨC ĐỘ LỌC KHỬ ỒN CHUYÊN DỤNG: Tùy chỉnh linh hoạt ngay trong bảng phụ đề: Tắt, Tiêu Chuẩn, Tách Giọng AI (Khuyên Dùng), và Siêu Cách Ly (Extreme Vocal Isolation cho phim nhạc nền cực to).\n• 🔊 BỘ KHUẾCH ĐẠI THÌ THẦM & GIỚI HẠN MỀM (Soft Limiter): Tự động nâng lời nói nhỏ/thì thầm rõ lên tới 6 lần kết hợp thuật toán bão hòa tương tự (analog tube saturation) chống méo bể tiếng khi diễn viên hét to.",
+  "versionCode": 36,
+  "versionName": "0.7.4",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.7.4/app-debug.apk",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.7.4/app-debug.apk",
+  "changelog": "🔥 BẢN NÂNG CẤP ĐỘT PHÁ v0.7.4 (ĐỒNG BỘ KHẨU HÌNH & TINH CHỈNH ĐỘ TRỄ PHỤ ĐỀ TỰ ĐỘNG - AUTO SUB SYNC):\n• ⏱️ TỰ ĐỘNG BÙ TRỪ TRÔI PHỤ ĐỀ KHI MẠNG LAG (Auto Audio/Video Drift Calibrator): Tự động đo độ trễ pipeline và bộ đệm buffer ExoPlayer theo thời gian thực, tự động căn chỉnh để phụ đề và giọng đọc luôn gắn chặt 100% vào khẩu hình nhân vật khi xem video online bị rớt khung hình.\n• 🎛️ THANH PHÍM NỔI TINH CHỈNH ĐỘ TRỄ TRỰC TIẾP TRÊN MÀN HÌNH: Nút SyncAlt một chạm mở thanh điều khiển nổi [-0.5s] [0s Reset] [+0.5s] ngay cạnh khung phụ đề, cho phép căn chỉnh tức thì mà không cần tạm dừng video.\n• 🎯 BỘ PRESET & BƯỚC NHẢY CHÍNH XÁC 100ms: Cung cấp đầy đủ phím tắt nhanh (-2s, -1s, -0.5s, 0s, +0.5s, +1s, +2s) và 2 nút tinh chỉnh vi sai 100ms (+/- 0.1s) trong bảng cài đặt phụ đề.\n• ⏩ ĐỒNG BỘ HOÀN HẢO VỚI BẢNG KỊCH BẢN & TUA VIDEO: Nhảy tua và đánh dấu câu thoại đang phát trong bảng kịch bản tự động khớp theo độ lệch đã cấu hình.",
   "releaseDate": "2026-10-31"
 }
