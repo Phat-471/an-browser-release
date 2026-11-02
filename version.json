@@ -1,8 +1,8 @@
 {
-  "versionCode": 43,
-  "versionName": "0.8.1",
-  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.1/app-debug.apk",
-  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.1/app-debug.apk",
-  "changelog": "📋 BẢN NÂNG CẤP TIỆN ÍCH v0.8.1 (DÁN LINK & MỞ SIÊU TỐC TỪ BỘ NHỚ TẠM):\n• ⚡ DÁN LINK MỘT CHẠM (Smart Paste & Go): Tự động phát hiện liên kết trong bộ nhớ tạm (clipboard) khi vừa sao chép từ Zalo, Facebook, YouTube, Telegram hay trình duyệt khác.\n• 🌐 THẺ GỢI Ý MỞ NHANH TRÊN MÀN HÌNH CHÍNH & THANH URL: Hiển thị ngay thẻ đề xuất thông minh '📋 Dán & Mở liên kết' ngay dưới ô tìm kiếm, chạm 1 cái là duyệt web ngay lập tức mà không cần nhập từng chữ!\n• 🎯 NÚT DÁN & DÁN ĐÈ TRONG THANH ĐỊA CHỈ: Bổ sung nút 'Dán' trực quan khi ô nhập trống và nút 'Dán đè' thay thế link cũ chỉ với 1 chạm.\n• 🕵️ HỖ TRỢ ĐẦY ĐỦ TRÊN TAB ẨN DANH & TÌM TRONG TRANG: Bổ sung nút Dán nhanh cho cả phiên Ẩn danh và thanh Tìm kiếm nội dung trong trang.",
-  "releaseDate": "2026-11-01"
+  "versionCode": 48,
+  "versionName": "0.8.6",
+  "downloadUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.6/app-debug.apk",
+  "apkUrl": "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.6/app-debug.apk",
+  "changelog": "⚙️ GIAO DIỆN CÀI ĐẶT ACCORDION & TRÌNH QUẢN LÝ TẢI XUỐNG IDM CHUYÊN SÂU v0.8.6 (Build 48):\n• 🗂️ TÁI CẤU TRÚC CÀI ĐẶT DẠNG ACCORDION (Collapsible Cards): Gom 7 nhóm cài đặt vào các thẻ gập/mở mượt mà (Bảo mật, Video, Duyệt web, Mạng & VPN WARP, Tải về IDM, Dọn dẹp bộ nhớ, Hệ thống & Cập nhật). Mỗi thẻ hiển thị huy hiệu tóm tắt trạng thái và mũi tên xoay trực quan.\n• 🎛️ TÙY BIẾN TỐI ƯU & MẶC ĐỊNH KHÔNG LÀM PHIỀN: Trợ lý video nổi (Assistant Pill) chuyển sang chế độ opt-in (mặc định tắt), người dùng toàn quyền chủ động bật/tắt mọi tính năng.\n• ⚡ TRÌNH QUẢN LÝ TẢI XUỐNG IDM TURBO CHUYÊN SÂU:\n  - ⏸️ Tạm dừng & Tiếp tục tải (Pause / Resume) thời gian thực cho video đa luồng IDM và luồng HLS/DASH.\n  - 🗃️ 7 Danh mục lọc tệp thông minh: Tất cả, Video, Âm thanh, Tài liệu, File nén / APK, Đang tải, Đã xong.\n  - 📊 Thanh dung lượng bộ nhớ máy & Huy hiệu tốc độ tải tức thì (⚡ MB/s).\n  - 🎬 Menu thao tác nhanh: Phát ngay bằng Cyber Cinema, Chi tiết tệp, Chia sẻ tệp qua FileProvider, Xóa tệp an toàn.",
+  "releaseDate": "2026-11-02"
 }
