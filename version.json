@@ -1,9 +1,9 @@
 {
-    "versionCode":  52,
-    "versionName":  "0.8.10",
-    "downloadUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.10/app-debug.apk",
-    "apkUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.10/app-debug.apk",
-    "sha256":  "945479aa7819c149e02356a14d16883ae1b2ce3b4f00c213746817fdcc72da19",
-    "changelog":  "AN Browser v0.8.10 — Build 52\n\n- Đã sửa lỗi tải được gói ngôn ngữ nhưng video không có phụ đề AI: mốc âm thanh nội bộ của trình phát bị dùng nhầm làm vị trí video, khiến bộ nhận dạng chờ và không nhận dữ liệu. Âm thanh gửi đi và phụ đề nay dùng cùng mốc thời gian của video.\n- Đã buộc đường âm thanh trong Cinema đi qua bộ lấy tiếng, tránh các chế độ xuất trực tiếp bỏ qua bộ xử lý.\n- Đã làm rõ trạng thái AI Sub: dịch vụ sẵn sàng, chưa gửi được âm thanh, đã gửi nhưng chưa có lời thoại, hoặc đang dịch lời gốc.\n\nCách dùng: cập nhật ứng dụng, mở lại video trong Cinema → Phụ đề AI → bật AI Sub và chọn đúng ngôn ngữ nói. Bật Thuyết minh nếu cần nghe bản dịch; dịch tiếng Việt cần kết nối mạng.\n\nĐã bổ sung kiểm tra từ bộ giải mã video thực đến dịch vụ nhận dạng mô phỏng qua Android. Kết quả này xác minh đường truyền âm thanh và mốc phụ đề; độ chính xác nhận dạng và giọng đọc trên Samsung S24 Plus vẫn cần kiểm tra trên máy thật.\n",
-    "releaseDate":  "2026-11-02"
+    "versionCode":  53,
+    "versionName":  "0.8.11",
+    "downloadUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.11/app-debug.apk",
+    "apkUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.11/app-debug.apk",
+    "sha256":  "339e772ed51226a9819184979c227034553b1f1ee8d1e255cca0710b4fcde88c",
+    "changelog":  "AN Browser v0.8.11 — Build 53\n\n- Đã sửa đường xử lý có lời gốc nhưng thiếu bản dịch: câu đã nhận được giữ trong hàng đợi, dịch tối đa ba câu đồng thời và trả kết quả đúng thứ tự.\n- Đã thêm máy chủ dịch dự phòng, giới hạn thời gian chờ chung và phân biệt lỗi mạng, giới hạn truy cập, phản hồi không hợp lệ với bản dịch thành công.\n- Đã giữ các câu chờ dịch khi video tạm dừng, tải đệm hoặc dịch vụ nhận dạng bị ngắt. Đã nhận từng đoạn thoại chốt từ dịch vụ Android, giữ câu trả lời ngắn lặp lại và gửi nốt âm thanh khi video kết thúc.\n- Đã thêm số câu gốc, đã dịch, chờ dịch, mã lỗi và nút “Dịch lại các câu lỗi” trong Cinema → Phụ đề AI. Dịch lại cập nhật đúng câu cũ trong phụ đề đã lưu.\n- Đã ngăn lời gốc chưa dịch bị dùng làm phụ đề hoặc giọng đọc tiếng Việt.\n\nCách dùng: cập nhật ứng dụng, mở lại video trong Cinema → Phụ đề AI, bật AI Sub và chọn đúng ngôn ngữ nói. Nếu có câu chưa dịch, kiểm tra kết nối mạng rồi chọn “Dịch lại các câu lỗi”. Bật Thuyết minh để nghe những câu đã dịch thành công.\n\nĐã kiểm tra gọi dịch mạng thật với câu mẫu tiếng Nhật, Trung và Anh, cùng các tình huống dịch lỗi và nhiều lượt thoại. Chưa đo lại tỷ lệ dịch trên Samsung S24 Plus của bạn; độ chính xác nhận dạng, ngữ cảnh và giọng đọc vẫn cần kiểm tra trên máy thật.\n",
+    "releaseDate":  "2026-11-03"
 }
