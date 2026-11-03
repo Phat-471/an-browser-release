@@ -1,9 +1,9 @@
 {
-    "versionCode":  54,
-    "versionName":  "0.8.12",
-    "downloadUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.12/app-debug.apk",
-    "apkUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.12/app-debug.apk",
-    "sha256":  "7206d9547b96163984c9a52a5db58469760a40e565cefea5986f2835a8d905ac",
-    "changelog":  "AN Browser v0.8.12 — Build 54\n\n- Đã ổn định kết nối nhận dạng giữa các lượt thoại: dùng lại bộ nhận dạng sau khi cửa sổ âm thanh hoàn tất, thay vì huỷ và tạo lại liên tục.\n- Đã sửa đường chuyển sang nhận dạng trực tuyến khi dịch vụ ngoại tuyến bị ngắt hoặc gói ngôn ngữ chưa dùng được, tránh tiếp tục lặp trên dịch vụ đang lỗi.\n- Đã thêm kiểm tra ba cửa sổ âm thanh liên tiếp qua cùng một kết nối và thử bản sửa trực tiếp trên Samsung S24 Plus.\n\nCách dùng: cập nhật ứng dụng, mở lại video trong Cinema và bật AI Sub. Nếu dịch vụ ngoại tuyến bị ngắt, ứng dụng sẽ báo trạng thái chuyển sang trực tuyến; cần giữ kết nối mạng để tiếp tục nhận dạng và dịch.\n\nBản sửa xử lý lỗi kết nối nhận dạng đã tái hiện trên máy thật. Chưa đo độ chính xác từng từ hoặc tỷ lệ nhận đủ lời thoại; tiếng quá nhỏ, nhiễu và giọng vùng miền vẫn cần tiếp tục đối chiếu với lời gốc.\n",
+    "versionCode":  55,
+    "versionName":  "0.8.13",
+    "downloadUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.13/app-debug.apk",
+    "apkUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.13/app-debug.apk",
+    "sha256":  "02cb263d8e478eb37f06f5399a47305ce54d2d603eee20e147f7b9c08775454e",
+    "changelog":  "# AN Browser 0.8.13\r\n\r\n- AI Sub giữ tạm tối đa 13 giây âm thanh trong RAM để nghe lại một lần khi dịch vụ gặp lỗi hoặc chưa nhận được lời thoại.\r\n- Chỉ nghe lại phần chưa chốt lời; giữ mốc thời gian video, hạn chế lặp câu và tiếp tục dịch những câu đã nhận được.\r\n- Giữ đoạn cần nghe lại khi tạm dừng; xoá khi tắt AI Sub hoặc bắt đầu phiên mới. Không lưu âm thanh thành tệp.\r\n- Bổ sung số lần nghe lại, số lần có kết quả và số lần chưa nhận được lời trong bảng Phụ đề AI.\r\n\r\nTính năng này giúp khôi phục đoạn bị bỏ sót khi nhận dạng gặp lỗi. Những câu đã nhận sai từ vẫn phụ thuộc vào khả năng của dịch vụ nhận dạng.\r\n",
     "releaseDate":  "2026-11-03"
 }
