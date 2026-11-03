@@ -1,9 +1,9 @@
 {
-    "versionCode":  56,
-    "versionName":  "0.8.14",
-    "downloadUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.14/app-debug.apk",
-    "apkUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.14/app-debug.apk",
-    "sha256":  "c7974ea74110f48169c66a1c726346b5081e6df507982459333bb10df369116f",
-    "changelog":  "AN Browser v0.8.14 — Build 56\n\n- Đã thêm chế độ Tự động, Tiết kiệm, Cân bằng và Ưu tiên chất lượng cho AI Sub trong Cài đặt → Video và bảng Phụ đề AI của Cinema.\n- Đã điều chỉnh mức lọc, tần suất phân tích âm thanh, số câu dịch cùng lúc và bộ đệm theo chế độ. Khi máy nóng, cần tiết kiệm bộ nhớ hoặc bật tiết kiệm pin, ứng dụng giảm tải và hiển thị lý do.\n- Đã giới hạn hàng đợi dịch; các câu đã nhận vẫn được xử lý theo thứ tự khi đổi chế độ. Khi quá tải, ứng dụng báo rõ để tạm dừng hoặc phát lại đoạn vừa xem.\n- Đã bổ sung trạng thái mức xử lý đang dùng, âm thanh đang chờ và độ trễ nhận dạng; bỏ mô tả phần trăm giảm nhạc nền chưa được đo kiểm.\n- Đã làm rõ giới hạn Android 13 trở lên cho nhận dạng âm thanh video, đồng thời giữ lựa chọn phụ đề SRT trên phiên bản cũ.\n\nMặc định là Tự động. Tuỳ chọn ưu tiên ngoại tuyến vẫn được giữ riêng. Bản này cải thiện điều phối tài nguyên; không thay mô hình nhận dạng; độ chính xác còn phụ thuộc dịch vụ nhận dạng và âm thanh.\n",
+    "versionCode":  57,
+    "versionName":  "0.8.15",
+    "downloadUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.15/app-debug.apk",
+    "apkUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.15/app-debug.apk",
+    "sha256":  "677615b326cb1862c81555e0ac2624cdc1514042274361129ae897c3c4e5ecd2",
+    "changelog":  "AN Browser v0.8.15 — Build 57\n\n- Bổ sung một lượt nghe lại từ âm thanh gốc khi tiếng nhỏ bị bộ lọc làm yếu và dịch vụ không nhận được lời. Lượt nghe lại giữ nguyên mốc thời gian, giới hạn tăng âm và không lưu âm thanh ra tệp.\n- Giới hạn hàng đợi thuyết minh ở 12 phần đọc và khoảng 30 giây âm thanh ước tính; câu quá trễ được bỏ qua phần giọng đọc để tránh đọc dồn. Bản dịch trên phụ đề vẫn được giữ.\n- Sửa giọng thuyết minh tiếp tục chạy khi tạm dừng video hoặc tắt thuyết minh.\n- Tính tốc độ đọc theo thời gian còn lại trước câu kế tiếp; chia câu dài theo giới hạn Android, giữ đủ từ và ký tự Unicode, phân bổ thời lượng cho từng phần.\n\nLượt nghe lại chỉ áp dụng một lần cho đoạn lỗi. Đây là cải thiện xử lý âm thanh và điều phối giọng đọc; độ chính xác vẫn phụ thuộc dịch vụ nhận dạng, ngôn ngữ và chất lượng âm thanh. Chưa bổ sung mô hình phân biệt từng người nói hoặc sao chép giọng nhân vật.\n",
     "releaseDate":  "2026-11-03"
 }
