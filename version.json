@@ -1,9 +1,9 @@
 {
-    "versionCode":  53,
-    "versionName":  "0.8.11",
-    "downloadUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.11/app-debug.apk",
-    "apkUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.11/app-debug.apk",
-    "sha256":  "339e772ed51226a9819184979c227034553b1f1ee8d1e255cca0710b4fcde88c",
-    "changelog":  "AN Browser v0.8.11 — Build 53\n\n- Đã sửa đường xử lý có lời gốc nhưng thiếu bản dịch: câu đã nhận được giữ trong hàng đợi, dịch tối đa ba câu đồng thời và trả kết quả đúng thứ tự.\n- Đã thêm máy chủ dịch dự phòng, giới hạn thời gian chờ chung và phân biệt lỗi mạng, giới hạn truy cập, phản hồi không hợp lệ với bản dịch thành công.\n- Đã giữ các câu chờ dịch khi video tạm dừng, tải đệm hoặc dịch vụ nhận dạng bị ngắt. Đã nhận từng đoạn thoại chốt từ dịch vụ Android, giữ câu trả lời ngắn lặp lại và gửi nốt âm thanh khi video kết thúc.\n- Đã thêm số câu gốc, đã dịch, chờ dịch, mã lỗi và nút “Dịch lại các câu lỗi” trong Cinema → Phụ đề AI. Dịch lại cập nhật đúng câu cũ trong phụ đề đã lưu.\n- Đã ngăn lời gốc chưa dịch bị dùng làm phụ đề hoặc giọng đọc tiếng Việt.\n\nCách dùng: cập nhật ứng dụng, mở lại video trong Cinema → Phụ đề AI, bật AI Sub và chọn đúng ngôn ngữ nói. Nếu có câu chưa dịch, kiểm tra kết nối mạng rồi chọn “Dịch lại các câu lỗi”. Bật Thuyết minh để nghe những câu đã dịch thành công.\n\nĐã kiểm tra gọi dịch mạng thật với câu mẫu tiếng Nhật, Trung và Anh, cùng các tình huống dịch lỗi và nhiều lượt thoại. Chưa đo lại tỷ lệ dịch trên Samsung S24 Plus của bạn; độ chính xác nhận dạng, ngữ cảnh và giọng đọc vẫn cần kiểm tra trên máy thật.\n",
+    "versionCode":  54,
+    "versionName":  "0.8.12",
+    "downloadUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.12/app-debug.apk",
+    "apkUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.12/app-debug.apk",
+    "sha256":  "7206d9547b96163984c9a52a5db58469760a40e565cefea5986f2835a8d905ac",
+    "changelog":  "AN Browser v0.8.12 — Build 54\n\n- Đã ổn định kết nối nhận dạng giữa các lượt thoại: dùng lại bộ nhận dạng sau khi cửa sổ âm thanh hoàn tất, thay vì huỷ và tạo lại liên tục.\n- Đã sửa đường chuyển sang nhận dạng trực tuyến khi dịch vụ ngoại tuyến bị ngắt hoặc gói ngôn ngữ chưa dùng được, tránh tiếp tục lặp trên dịch vụ đang lỗi.\n- Đã thêm kiểm tra ba cửa sổ âm thanh liên tiếp qua cùng một kết nối và thử bản sửa trực tiếp trên Samsung S24 Plus.\n\nCách dùng: cập nhật ứng dụng, mở lại video trong Cinema và bật AI Sub. Nếu dịch vụ ngoại tuyến bị ngắt, ứng dụng sẽ báo trạng thái chuyển sang trực tuyến; cần giữ kết nối mạng để tiếp tục nhận dạng và dịch.\n\nBản sửa xử lý lỗi kết nối nhận dạng đã tái hiện trên máy thật. Chưa đo độ chính xác từng từ hoặc tỷ lệ nhận đủ lời thoại; tiếng quá nhỏ, nhiễu và giọng vùng miền vẫn cần tiếp tục đối chiếu với lời gốc.\n",
     "releaseDate":  "2026-11-03"
 }
