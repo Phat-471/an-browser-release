@@ -1,9 +1,9 @@
 {
-    "versionCode":  57,
-    "versionName":  "0.8.15",
-    "downloadUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.15/app-debug.apk",
-    "apkUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.15/app-debug.apk",
-    "sha256":  "677615b326cb1862c81555e0ac2624cdc1514042274361129ae897c3c4e5ecd2",
-    "changelog":  "AN Browser v0.8.15 — Build 57\n\n- Bổ sung một lượt nghe lại từ âm thanh gốc khi tiếng nhỏ bị bộ lọc làm yếu và dịch vụ không nhận được lời. Lượt nghe lại giữ nguyên mốc thời gian, giới hạn tăng âm và không lưu âm thanh ra tệp.\n- Giới hạn hàng đợi thuyết minh ở 12 phần đọc và khoảng 30 giây âm thanh ước tính; câu quá trễ được bỏ qua phần giọng đọc để tránh đọc dồn. Bản dịch trên phụ đề vẫn được giữ.\n- Sửa giọng thuyết minh tiếp tục chạy khi tạm dừng video hoặc tắt thuyết minh.\n- Tính tốc độ đọc theo thời gian còn lại trước câu kế tiếp; chia câu dài theo giới hạn Android, giữ đủ từ và ký tự Unicode, phân bổ thời lượng cho từng phần.\n\nLượt nghe lại chỉ áp dụng một lần cho đoạn lỗi. Đây là cải thiện xử lý âm thanh và điều phối giọng đọc; độ chính xác vẫn phụ thuộc dịch vụ nhận dạng, ngôn ngữ và chất lượng âm thanh. Chưa bổ sung mô hình phân biệt từng người nói hoặc sao chép giọng nhân vật.\n",
+    "versionCode":  58,
+    "versionName":  "0.8.16",
+    "downloadUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.16/app-debug.apk",
+    "apkUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.16/app-debug.apk",
+    "sha256":  "93d310644b7a6b8f5e89028e81c0ad62af9e3e52c056d1ef26a2749a303805c1",
+    "changelog":  "AN Browser v0.8.16 — Build 58\n\n- Thêm chọn giọng thuyết minh tiếng Việt trong Cinema → Phụ đề AI khi bật thuyết minh. Danh sách lấy từ dịch vụ giọng Android, ghi rõ giọng trên máy, cần mạng hoặc cần tải dữ liệu.\n- Lưu giọng đã chọn để dùng lại. Nếu giọng không còn sẵn sàng, hiển thị lý do và dùng giọng thay thế; giữ lựa chọn cũ để có thể khôi phục khi giọng trở lại.\n- Thêm nghe thử khi video tạm dừng, kiểm tra lại danh sách và mở trình cài dữ liệu giọng Android. Khi tiếp tục phát hoặc đóng bảng, dừng đoạn nghe thử.\n- Báo rõ lỗi mạng hoặc dữ liệu giọng chưa tải xong; giữ bản dịch trên phụ đề.\n\nGiọng tự chọn được dùng cho mọi nhân vật. Chọn Giọng mặc định Android để quay lại cách chọn giọng trước đây. Chất giọng và số giọng có sẵn phụ thuộc dịch vụ Android; chưa bổ sung sao chép giọng hoặc mô hình phân biệt từng người nói.\n",
     "releaseDate":  "2026-11-03"
 }
