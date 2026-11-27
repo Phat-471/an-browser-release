@@ -1,9 +1,9 @@
 {
-    "versionCode":  58,
-    "versionName":  "0.8.16",
-    "downloadUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.16/app-debug.apk",
-    "apkUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.16/app-debug.apk",
-    "sha256":  "93d310644b7a6b8f5e89028e81c0ad62af9e3e52c056d1ef26a2749a303805c1",
-    "changelog":  "AN Browser v0.8.16 — Build 58\n\n- Thêm chọn giọng thuyết minh tiếng Việt trong Cinema → Phụ đề AI khi bật thuyết minh. Danh sách lấy từ dịch vụ giọng Android, ghi rõ giọng trên máy, cần mạng hoặc cần tải dữ liệu.\n- Lưu giọng đã chọn để dùng lại. Nếu giọng không còn sẵn sàng, hiển thị lý do và dùng giọng thay thế; giữ lựa chọn cũ để có thể khôi phục khi giọng trở lại.\n- Thêm nghe thử khi video tạm dừng, kiểm tra lại danh sách và mở trình cài dữ liệu giọng Android. Khi tiếp tục phát hoặc đóng bảng, dừng đoạn nghe thử.\n- Báo rõ lỗi mạng hoặc dữ liệu giọng chưa tải xong; giữ bản dịch trên phụ đề.\n\nGiọng tự chọn được dùng cho mọi nhân vật. Chọn Giọng mặc định Android để quay lại cách chọn giọng trước đây. Chất giọng và số giọng có sẵn phụ thuộc dịch vụ Android; chưa bổ sung sao chép giọng hoặc mô hình phân biệt từng người nói.\n",
-    "releaseDate":  "2026-11-03"
+    "versionCode":  59,
+    "versionName":  "0.8.17",
+    "downloadUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.17/app-debug.apk",
+    "apkUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.17/app-debug.apk",
+    "sha256":  "92062417d74944fbe71154b292519373c38798f4396840eecfa2a88e28b78051",
+    "changelog":  "AN Browser v0.8.17 — Build 59\n\n- Tối ưu thanh thời gian (Seekbar): Sửa triệt để lỗi chạm không ăn hoặc bấm nhảy sai vị trí. Mở rộng vùng cảm ứng 44dp, chạm hoặc kéo phản hồi chính xác 100% thời gian thực.\n- Vuốt màn hình tua mượt mà: Bỏ giới hạn bước tua cố định, vuốt ngang trượt liên tục theo cử chỉ tay tự nhiên như YouTube/MX Player kèm thanh tiến trình mini trên HUD. Tích hợp nhảy khung hình tức thì không khựng.\n- Hỗ trợ chất lượng 4K Ultra HD & 2K Quad HD: Bổ sung tùy chọn 4K (2160p) và 2K (1440p) trong Cinema Player; bộ tải video tự động phát hiện và gắn nhãn [4K UHD], [2K QHD].\n- Tinh gọn và hợp nhất nút video: Gom thanh trợ lý Native thành [ 🎬 Rạp phim | ⬇ Tải | ⋮ ], bỏ thanh 3 nút chèn đè lên video web gây rối mắt.\n",
+    "releaseDate":  "2026-11-27"
 }
