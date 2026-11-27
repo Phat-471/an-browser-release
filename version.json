@@ -1,9 +1,9 @@
 {
-    "versionCode":  60,
-    "versionName":  "0.8.18",
-    "downloadUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.18/app-debug.apk",
-    "apkUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.18/app-debug.apk",
-    "sha256":  "90d431b6272109baa4f7caa1d2270b825a116ced9310f31a2da5e2d65d630cb6",
-    "changelog":  "AN Browser v0.8.18 — Build 60\n\n- Giao diện xem video hoàn toàn mới chuẩn theo mẫu:\n  + Thanh trên: Nút tròn đóng/mở, Tiêu đề phim in đậm, mô tả phụ; cụm nút Chia sẻ, Lưu yêu thích và Thêm 3 chấm.\n  + Giữa màn hình: Loại bỏ các nút to che chắn, khung hình trong suốt 100%.\n  + Thanh dưới: Thanh Seekbar dài mượt mà với nút trượt tròn trắng sáng; hàng nút điều khiển ngang [Tua lùi | Play/Pause | Tua tới | Âm lượng | Tua 10s] và [Phụ đề CC | Tải video | Cài đặt].\n- Tự động mở trình phát cao cấp: Khi phóng to toàn màn hình trên web, tự động mở Cinema Player để tận hưởng 4K/2K, vuốt tua mượt mà và không bị lỗi thanh time của web.\n",
+    "versionCode":  61,
+    "versionName":  "0.8.19",
+    "downloadUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.19/app-debug.apk",
+    "apkUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.19/app-debug.apk",
+    "sha256":  "7cb3c38b6c041379afbeb792d3f6a830444e305078ee51cf0c1cb0c7a7085017",
+    "changelog":  "AN Browser v0.8.19 — Build 61\n\n- Đồng bộ giao diện xem video toàn màn hình theo mẫu mới:\n  + Thanh trên: Nút Avatar/Back tròn, tiêu đề và kênh 2 dòng rõ ràng, cụm nút Chia sẻ, Đánh dấu và Tùy chọn.\n  + Giữa màn hình: Trong suốt 100%, không còn nút to che khuất hình ảnh.\n  + Thanh dưới: Thanh Seekbar Compose mượt mà với con trượt tròn trắng sáng viền mint, chạm đâu ăn đó ngay tức thì; hàng nút điều khiển ngang [Tua lùi | Play/Pause | Tua tới | Âm lượng | Tua 10s] và [Phụ đề CC | Tải video | Cài đặt].\n- Gỡ bỏ hoàn toàn thanh nút chèn đè lên video web (loi-cyber-video-bar) trên YouTube và các trang web.\n- Đồng bộ lệnh tua seekVideoTo và cử chỉ vuốt mượt mà trên web video toàn màn hình.\n- Hỗ trợ độ phân giải lên đến 4K (2160p) & 2K (1440p) trong Cinema Player.\n",
     "releaseDate":  "2026-11-27"
 }
