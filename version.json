@@ -1,9 +1,9 @@
 {
-    "versionCode":  59,
-    "versionName":  "0.8.17",
-    "downloadUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.17/app-debug.apk",
-    "apkUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.17/app-debug.apk",
-    "sha256":  "92062417d74944fbe71154b292519373c38798f4396840eecfa2a88e28b78051",
-    "changelog":  "AN Browser v0.8.17 — Build 59\n\n- Tối ưu thanh thời gian (Seekbar): Sửa triệt để lỗi chạm không ăn hoặc bấm nhảy sai vị trí. Mở rộng vùng cảm ứng 44dp, chạm hoặc kéo phản hồi chính xác 100% thời gian thực.\n- Vuốt màn hình tua mượt mà: Bỏ giới hạn bước tua cố định, vuốt ngang trượt liên tục theo cử chỉ tay tự nhiên như YouTube/MX Player kèm thanh tiến trình mini trên HUD. Tích hợp nhảy khung hình tức thì không khựng.\n- Hỗ trợ chất lượng 4K Ultra HD & 2K Quad HD: Bổ sung tùy chọn 4K (2160p) và 2K (1440p) trong Cinema Player; bộ tải video tự động phát hiện và gắn nhãn [4K UHD], [2K QHD].\n- Tinh gọn và hợp nhất nút video: Gom thanh trợ lý Native thành [ 🎬 Rạp phim | ⬇ Tải | ⋮ ], bỏ thanh 3 nút chèn đè lên video web gây rối mắt.\n",
+    "versionCode":  60,
+    "versionName":  "0.8.18",
+    "downloadUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.18/app-debug.apk",
+    "apkUrl":  "https://github.com/Phat-471/an-browser-release/releases/download/v0.8.18/app-debug.apk",
+    "sha256":  "90d431b6272109baa4f7caa1d2270b825a116ced9310f31a2da5e2d65d630cb6",
+    "changelog":  "AN Browser v0.8.18 — Build 60\n\n- Giao diện xem video hoàn toàn mới chuẩn theo mẫu:\n  + Thanh trên: Nút tròn đóng/mở, Tiêu đề phim in đậm, mô tả phụ; cụm nút Chia sẻ, Lưu yêu thích và Thêm 3 chấm.\n  + Giữa màn hình: Loại bỏ các nút to che chắn, khung hình trong suốt 100%.\n  + Thanh dưới: Thanh Seekbar dài mượt mà với nút trượt tròn trắng sáng; hàng nút điều khiển ngang [Tua lùi | Play/Pause | Tua tới | Âm lượng | Tua 10s] và [Phụ đề CC | Tải video | Cài đặt].\n- Tự động mở trình phát cao cấp: Khi phóng to toàn màn hình trên web, tự động mở Cinema Player để tận hưởng 4K/2K, vuốt tua mượt mà và không bị lỗi thanh time của web.\n",
     "releaseDate":  "2026-11-27"
 }
